@@ -1,0 +1,6 @@
+{
+  "hits": [
+    {"title": "SQLite ahora corre en el navegador vía WebAssembly", "url": "https://example.com/sqlite-wasm", "objectID": "40011122", "points": 842, "num_comments": 231, "author": "dev_ana", "created_at_i": 1752300000},
+    {"title": "Cómo escribimos un compilador en un fin de semana", "url": "https://example.com/weekend-compiler", "objectID": "40011123", "points": 512, "num_comments": 98, "author": "kbuilder", "created_at_i": 1752290000}
+  ]
+}

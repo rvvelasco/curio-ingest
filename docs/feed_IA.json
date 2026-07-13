@@ -1,0 +1,43 @@
+{
+  "category": "IA",
+  "emoji": "🤖",
+  "label": "Inteligencia Artificial",
+  "color": "#6C7A9C",
+  "updatedAt": 1783984464883,
+  "posts": [
+    {
+      "id": "8b37b4906f4c3f57d43bf2996d01d887fe421ee8",
+      "category": "IA",
+      "subcategory": null,
+      "title": "Aprendizaje por refuerzo eficiente en muestras para robótica del mundo real",
+      "summary": "Presentamos un método de aprendizaje por refuerzo que reduce en un orden de magnitud la cantidad de datos necesarios para que un robot aprenda tareas de manipulación, combinando modelos del mundo aprendidos con exploración dirigida por incertidumbre.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2607.01234v1",
+      "publishedAt": 1783706400000,
+      "fetchedAt": 1783984464873,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "de80ba1d0c71f8c539fa0a207a7e3099c6ff11f2",
+      "category": "IA",
+      "subcategory": null,
+      "title": "Destilación de modelos de lenguaje grandes hacia agentes compactos",
+      "summary": "Proponemos una técnica de destilación que transfiere capacidades de razonamiento de modelos de lenguaje muy grandes a modelos pequeños ejecutables en dispositivos móviles, manteniendo el 90 por ciento del rendimiento en tareas de razonamiento.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2607.05678v1",
+      "publishedAt": 1783598400000,
+      "fetchedAt": 1783984464873,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

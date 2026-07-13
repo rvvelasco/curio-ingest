@@ -1,0 +1,12 @@
+{
+  "name": "curio-ingest",
+  "version": "0.1.0",
+  "description": "Pipeline de ingesta para Curio: trae contenido de APIs gratuitas, lo normaliza a un formato unico, lo resume (opcional, IA gratis) y publica JSON estatico.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "demo": "node src/index.js --demo"
+  },
+  "license": "MIT"
+}

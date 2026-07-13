@@ -1,0 +1,43 @@
+{
+  "category": "TECNOLOGIA",
+  "emoji": "💻",
+  "label": "Tecnología",
+  "color": "#5B8C85",
+  "updatedAt": 1783984464878,
+  "posts": [
+    {
+      "id": "dd465b03407f0d7da50b421e450c616c612f5b7c",
+      "category": "TECNOLOGIA",
+      "subcategory": null,
+      "title": "SQLite ahora corre en el navegador vía WebAssembly",
+      "summary": "Tema destacado hoy en la comunidad tech de Hacker News. 842 puntos, 231 comentarios.",
+      "curiousFact": "Compartido por dev_ana.",
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Hacker News",
+      "sourceUrl": "https://example.com/sqlite-wasm",
+      "publishedAt": 1752300000000,
+      "fetchedAt": 1783984464874,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "e72f570cae66e80483ddda3403795573957ea82f",
+      "category": "TECNOLOGIA",
+      "subcategory": null,
+      "title": "Cómo escribimos un compilador en un fin de semana",
+      "summary": "Tema destacado hoy en la comunidad tech de Hacker News. 512 puntos, 98 comentarios.",
+      "curiousFact": "Compartido por kbuilder.",
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Hacker News",
+      "sourceUrl": "https://example.com/weekend-compiler",
+      "publishedAt": 1752290000000,
+      "fetchedAt": 1783984464874,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

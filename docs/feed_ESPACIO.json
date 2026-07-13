@@ -1,0 +1,43 @@
+{
+  "category": "ESPACIO",
+  "emoji": "🚀",
+  "label": "Espacio",
+  "color": "#3A3A6A",
+  "updatedAt": 1783984464878,
+  "posts": [
+    {
+      "id": "3651c75385e5b0f06c02ce95f169e79d664a0a79",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "El telescopio James Webb detecta vapor de agua en un exoplaneta rocoso",
+      "summary": "Nuevas observaciones del telescopio espacial James Webb sugieren la presencia de vapor de agua en la atmósfera de un pequeño planeta rocoso a 26 años luz, un paso importante en la búsqueda de mundos habitables.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://images.example.com/webb.jpg",
+      "sourceName": "SpaceNews",
+      "sourceUrl": "https://www.example-space-news.com/webb-water-vapor",
+      "publishedAt": 1783848600000,
+      "fetchedAt": 1783984464871,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "326dcafb3c627521f17e594b8952bef2c5fc1e5f",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "SpaceX lanza con éxito otra tanda de satélites Starlink",
+      "summary": "Un cohete Falcon 9 puso en órbita 23 satélites Starlink desde Cabo Cañaveral. La primera etapa aterrizó sin problemas en la plataforma marítima, sumando su vigésima reutilización.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://images.example.com/falcon9.jpg",
+      "sourceName": "NASASpaceflight",
+      "sourceUrl": "https://www.example-space-news.com/starlink-launch",
+      "publishedAt": 1783807800000,
+      "fetchedAt": 1783984464871,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

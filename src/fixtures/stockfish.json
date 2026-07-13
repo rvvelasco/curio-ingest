@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Stockfish 17.1",
+    "tag_name": "sf_17.1",
+    "body": "Stockfish 17.1 mejora la fuerza de juego con una nueva red neuronal NNUE y optimizaciones de búsqueda. Gana aproximadamente 20 puntos Elo respecto a la versión anterior en condiciones de torneo.",
+    "html_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+    "published_at": "2026-06-01T10:00:00Z"
+  }
+]

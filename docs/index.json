@@ -1,0 +1,41 @@
+{
+  "updatedAt": 1783984464887,
+  "categories": [
+    {
+      "category": "AJEDREZ",
+      "emoji": "♟",
+      "label": "Ajedrez",
+      "color": "#3D3D3D",
+      "count": 2
+    },
+    {
+      "category": "ESPACIO",
+      "emoji": "🚀",
+      "label": "Espacio",
+      "color": "#3A3A6A",
+      "count": 2
+    },
+    {
+      "category": "HISTORIA",
+      "emoji": "📚",
+      "label": "Historia",
+      "color": "#B08968",
+      "count": 2
+    },
+    {
+      "category": "IA",
+      "emoji": "🤖",
+      "label": "Inteligencia Artificial",
+      "color": "#6C7A9C",
+      "count": 2
+    },
+    {
+      "category": "TECNOLOGIA",
+      "emoji": "💻",
+      "label": "Tecnología",
+      "color": "#5B8C85",
+      "count": 2
+    }
+  ],
+  "total": 10
+}

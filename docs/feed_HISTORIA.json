@@ -1,0 +1,43 @@
+{
+  "category": "HISTORIA",
+  "emoji": "📚",
+  "label": "Historia",
+  "color": "#B08968",
+  "updatedAt": 1783984464877,
+  "posts": [
+    {
+      "id": "cdcc06cdec2d0c1283f8950c245abc56ffff919d",
+      "category": "HISTORIA",
+      "subcategory": null,
+      "title": "1789: Toma de la Bastilla",
+      "summary": "La toma de la Bastilla, ocurrida el 14 de julio de 1789, fue un punto de inflexión de la Revolución Francesa. La fortaleza-prisión era un símbolo del absolutismo monárquico.",
+      "curiousFact": "Ocurrió un día como hoy, en el año 1789.",
+      "whyItMatters": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Prise_de_la_Bastille.jpg/320px-Prise_de_la_Bastille.jpg",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Toma_de_la_Bastilla",
+      "publishedAt": null,
+      "fetchedAt": 1783984464871,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "8b701038c15b2ae1541db15fe3620904eb7425ee",
+      "category": "HISTORIA",
+      "subcategory": null,
+      "title": "1969: Apolo 11",
+      "summary": "El Apolo 11 fue la misión espacial que llevó por primera vez a seres humanos a la superficie de la Luna. Neil Armstrong y Buzz Aldrin caminaron sobre ella el 20 de julio de 1969, mientras Michael Collins orbitaba en el módulo de mando.",
+      "curiousFact": "Ocurrió un día como hoy, en el año 1969.",
+      "whyItMatters": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/320px-Aldrin_Apollo_11_original.jpg",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Apolo_11",
+      "publishedAt": null,
+      "fetchedAt": 1783984464870,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

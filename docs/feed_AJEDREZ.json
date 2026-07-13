@@ -1,0 +1,43 @@
+{
+  "category": "AJEDREZ",
+  "emoji": "♟",
+  "label": "Ajedrez",
+  "color": "#3D3D3D",
+  "updatedAt": 1783984464884,
+  "posts": [
+    {
+      "id": "ea0fd5def9802af123a0f256279403631edf65a9",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1523, jugado 48210 veces. Temas: fork, middlegame, short.",
+      "curiousFact": "Este puzzle entrena: fork, middlegame, short.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": null,
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/PzXy9",
+      "publishedAt": 1783984464873,
+      "fetchedAt": 1783984464874,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "06199ed8ca61947a04c870592a8639c702e72809",
+      "category": "AJEDREZ",
+      "subcategory": "Novedades de Stockfish",
+      "title": "Stockfish Stockfish 17.1",
+      "summary": "Stockfish 17.1 mejora la fuerza de juego con una nueva red neuronal NNUE y optimizaciones de búsqueda. Gana aproximadamente 20 puntos Elo respecto a la versión anterior en condiciones de torneo.",
+      "curiousFact": "Stockfish es de código abierto y supera con holgura a cualquier humano.",
+      "whyItMatters": "Cada versión suele traer mejoras de fuerza de juego que influyen en el análisis de todo el mundo del ajedrez.",
+      "imageUrl": null,
+      "sourceName": "GitHub · Stockfish",
+      "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+      "publishedAt": 1780308000000,
+      "fetchedAt": 1783984464875,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

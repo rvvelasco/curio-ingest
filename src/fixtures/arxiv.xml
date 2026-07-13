@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arXiv Query</title>
+  <entry>
+    <id>http://arxiv.org/abs/2607.01234v1</id>
+    <published>2026-07-10T18:00:00Z</published>
+    <title>Aprendizaje por refuerzo eficiente en muestras para robótica del mundo real</title>
+    <summary>Presentamos un método de aprendizaje por refuerzo que reduce en un orden de magnitud la cantidad de datos necesarios para que un robot aprenda tareas de manipulación, combinando modelos del mundo aprendidos con exploración dirigida por incertidumbre.</summary>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.05678v1</id>
+    <published>2026-07-09T12:00:00Z</published>
+    <title>Destilación de modelos de lenguaje grandes hacia agentes compactos</title>
+    <summary>Proponemos una técnica de destilación que transfiere capacidades de razonamiento de modelos de lenguaje muy grandes a modelos pequeños ejecutables en dispositivos móviles, manteniendo el 90 por ciento del rendimiento en tareas de razonamiento.</summary>
+  </entry>
+</feed>

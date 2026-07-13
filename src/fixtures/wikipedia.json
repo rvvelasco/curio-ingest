@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "year": 1969,
+      "text": "El Apolo 11 despega rumbo a la Luna desde el Centro Espacial Kennedy.",
+      "pages": [{
+        "normalizedtitle": "Apolo 11",
+        "extract": "El Apolo 11 fue la misión espacial que llevó por primera vez a seres humanos a la superficie de la Luna. Neil Armstrong y Buzz Aldrin caminaron sobre ella el 20 de julio de 1969, mientras Michael Collins orbitaba en el módulo de mando.",
+        "thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/320px-Aldrin_Apollo_11_original.jpg"},
+        "content_urls": {"desktop": {"page": "https://es.wikipedia.org/wiki/Apolo_11"}}
+      }]
+    },
+    {
+      "year": 1789,
+      "text": "El pueblo de París toma la Bastilla, hecho que marca el inicio de la Revolución Francesa.",
+      "pages": [{
+        "normalizedtitle": "Toma de la Bastilla",
+        "extract": "La toma de la Bastilla, ocurrida el 14 de julio de 1789, fue un punto de inflexión de la Revolución Francesa. La fortaleza-prisión era un símbolo del absolutismo monárquico.",
+        "thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Prise_de_la_Bastille.jpg/320px-Prise_de_la_Bastille.jpg"},
+        "content_urls": {"desktop": {"page": "https://es.wikipedia.org/wiki/Toma_de_la_Bastilla"}}
+      }]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+name: Curio ingest
+
+# Corre cada 3 horas (gratis en repos públicos) + botón manual.
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # para poder commitear el JSON generado
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Ejecutar pipeline
+        env:
+          # IA opcional y GRATIS. Cargá el secreto en Settings > Secrets del repo.
+          # Gemini (Google AI Studio):
+          AI_BASE_URL: https://generativelanguage.googleapis.com/v1beta/openai
+          AI_MODEL: gemini-2.5-flash-lite
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}   # si está vacío, corre sin IA ($0)
+          AI_MAX_CALLS: "300"
+        run: node src/index.js
+
+      - name: Publicar JSON (commit de /out)
+        run: |
+          git config user.name  "curio-bot"
+          git config user.email "curio-bot@users.noreply.github.com"
+          git add docs/
+          git commit -m "feed: actualización automática $(date -u +%FT%TZ)" || echo "Sin cambios"
+          git push
