@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784016403017,
+  "updatedAt": 1784026025425,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -27,7 +27,7 @@
       "emoji": "🔬",
       "label": "Ciencia",
       "color": "#4A7BA6",
-      "count": 13
+      "count": 14
     },
     {
       "category": "CULTURA",
@@ -41,7 +41,7 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 9
+      "count": 10
     },
     {
       "category": "EMPRENDIMIENTO",
@@ -55,7 +55,7 @@
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 41
+      "count": 48
     },
     {
       "category": "ESTOICISMO",
@@ -69,14 +69,14 @@
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 12
+      "count": 13
     },
     {
       "category": "FINANZAS",
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 7
+      "count": 6
     },
     {
       "category": "HISTORIA",
@@ -97,7 +97,7 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 24
+      "count": 30
     },
     {
       "category": "NEGOCIOS",
@@ -111,8 +111,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 24
+      "count": 31
     }
   ],
-  "total": 223
+  "total": 245
 }

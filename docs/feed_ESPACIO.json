@@ -3,8 +3,25 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784016403009,
+  "updatedAt": 1784026025419,
   "posts": [
+    {
+      "id": "d15733a29bcd10bf8ea3fe18c2e7e27d6f1aaaa2",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Artemis II astronauts visit ESA",
+      "summary": "Yesterday, the four Artemis II astronauts visited ESA’s technical site in the Netherlands, where they met the team behind the European Service Module that powered their Orion spacecraft around the Moon and safely back to Earth.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/artemis_ii_astronauts_visit_esa/27377896-1-eng-GB/Artemis_II_astronauts_visit_ESA_card_full.jpg",
+      "sourceName": "ESA",
+      "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA",
+      "publishedAt": 1784015340000,
+      "fetchedAt": 1784026007602,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "63ecc30a6ad0fd148922e926dd9dca40c3c113cf",
       "category": "ESPACIO",
@@ -17,7 +34,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
       "publishedAt": 1784001660000,
-      "fetchedAt": 1784016379332,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +51,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "publishedAt": 1783991044000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +68,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
       "publishedAt": 1783987200000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +85,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
       "publishedAt": 1783981130000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +102,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "publishedAt": 1783979171000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +119,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
       "publishedAt": 1783976882000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +136,7 @@
       "sourceName": "NASASpaceflight",
       "sourceUrl": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
       "publishedAt": 1783974572000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +153,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
       "publishedAt": 1783972403000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +170,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
       "publishedAt": 1783969920000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007602,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +187,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
       "publishedAt": 1783967841000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007603,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +204,7 @@
       "sourceName": "Arstechnica",
       "sourceUrl": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
       "publishedAt": 1783958703000,
-      "fetchedAt": 1784016379333,
+      "fetchedAt": 1784026007603,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -346,6 +363,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "a231b942221d5644ffa9de62f238bc0fda9eda71",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "The Great Nebula in Carina",
+      "summary": "What's happening in the center of the Carina Nebula? Stars are forming, dying, and leaving an impressive tapestry of dark dusty filaments. The entire Carina Nebula, cataloged as NGC 3372, spans over 300 light years and lies about 8,500 light-years away in the constellation of Carina. The nebula is composed predominantly of hydrogen gas, which emits the pervasive red glow seen in this highly detailed featured image. The blue glow in the center is created by a trace amount of glowing oxygen. Young and massive stars located in the nebula's center expel dust when they explode in supernovae. Eta C…",
+      "curiousFact": "Imagen por Dieter Willasch (Astro-Cabinet).",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1905/CarinaWideField_Willasch_1080.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1557187200000,
+      "fetchedAt": 1784026008243,
+      "readingSeconds": 30,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "124a7e81ba4ff955b30fc1cf49ae937020976d24",
       "category": "ESPACIO",
       "subcategory": null,
@@ -482,6 +516,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "0bbf1b88f37f1fc557f0442b1de1cb7563ac35b4",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Winter Hexagon Over Stagecoach Colorado",
+      "summary": "If you can find Orion, you might be able to find the Winter Hexagon. The Winter Hexagon involves some of the brightest stars visible, together forming a large and easily found pattern in the winter sky of Earth's northern hemisphere. The stars involved can usually be identified even in the bright night skies of a big city, although here they appear over darker Stagecoach, Colorado, USA.. The six stars that compose the Winter Hexagon are Aldebaran, Capella, Castor (and Pollux), Procyon, Rigel, and Sirius. Here, the band of our Milky Way Galaxy runs through the center of the Winter Hexagon, whi…",
+      "curiousFact": "Imagen por Jimmy Westlake (Colorado Mountain College).",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1101/winterhexagon_westlake_annotated.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1294012800000,
+      "fetchedAt": 1784026008243,
+      "readingSeconds": 30,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "83d5400a09e5ff2d583991c9e627bd0162bb8d31",
       "category": "ESPACIO",
       "subcategory": null,
@@ -584,6 +635,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "9d609afa56866115ffb4f1cef564f463212b692b",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "The Color of the Moon",
+      "summary": "rth's Moon is normally seen in subtle shades of grey or yellow. But small color differences have been greatly exaggerated to make this dramatic mosaic image of the Moon's gibbous phase. The familiar Sea of Tranquility (Mare Tranquillitatis) is the blue area right of center. White lines radiate from the crater Tycho at bottom left, while purplish tones mottle the crater Copernicus left of center. Though exaggerated, the different colors are recognized to correspond to real differences in the chemical makeup of the lunar surface - blue hues reveal titanium rich areas while orange and purple col…",
+      "curiousFact": "Imagen por Johannes Schedler (Panther Observatory).",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0602/Mooncolor060110schedler_35x32.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1140048000000,
+      "fetchedAt": 1784026008243,
+      "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "1c78213f5529f87924eda50babdda7934c89713e",
       "category": "ESPACIO",
       "subcategory": null,
@@ -596,6 +664,23 @@
       "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
       "publishedAt": 1128124800000,
       "fetchedAt": 1784016380373,
+      "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "3058e62b19acc1f6d36bd33494718455f9c4d447",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Himalayan Horizon From Space",
+      "summary": "This stunning aerial view shows the rugged snow covered peaks of a Himalayan mountain range in Nepal. The seventh-highest peak on the planet, Dhaulagiri, is the high point on the horizon at the left while in the foreground lies the southern Tibetan Plateau of China. But, contrary to appearances, this picture wasn't taken from an airliner cruising at 30,000 feet. Instead it was taken with a 35mm camera and telephoto lens by the Expedition 1 crew aboard the International Space Station -- orbiting 200 nautical miles above the Earth. The Himalayan mountains were created by crustal plate tectonics…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0505/himalaya_iss1.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1117238400000,
+      "fetchedAt": 1784026008243,
       "readingSeconds": 29,
       "extendedContent": null,
       "aiEnhanced": false
@@ -614,6 +699,23 @@
       "publishedAt": 1106611200000,
       "fetchedAt": 1784007081467,
       "readingSeconds": 31,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "416899b58172f1f6c0cdd7c3ae18252c38644fd0",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Leo A: Nearby Dwarf Irregular Galaxy",
+      "summary": "Why isn't this small galaxy simple? The above image and contemporary observations of small nearby galaxy Leo A were supposed to show it has a simple structure. Now Leo A is known to be a dwarf irregular galaxy - one of the most common types of galaxies in the universe and a type that is likely a building block of more massive galaxy like our Milky Way Galaxy. In general, larger galaxies have recently been shown to continually eat, and be primarily composed of, many of the smaller satellite galaxies that have surrounded them. Leo A's surprising complexity indicates that that it, and possibly m…",
+      "curiousFact": "Imagen por IoP Lithuania.",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0411/leoA_subaru.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1100044800000,
+      "fetchedAt": 1784026008243,
+      "readingSeconds": 32,
       "extendedContent": null,
       "aiEnhanced": false
     },
@@ -665,6 +767,23 @@
       "publishedAt": 1016236800000,
       "fetchedAt": 1783992587908,
       "readingSeconds": 31,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "698bc917de111f025ad68345c4fd8a78f85f141d",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "The Center of Centaurus A",
+      "summary": "A fantastic jumble of young blue star clusters, gigantic glowing gas clouds, and imposing dark dust lanes surrounds the central region of the active galaxy Centaurus A. This mosaic of Hubble Space Telescope images taken in blue, green, and red light has been processed to present a natural color picture of this cosmic maelstrom. Infrared images from the Hubble have also shown that hidden at the center of this activity are what seem to be disks of matter spiraling into a black hole with a billion times the mass of the Sun! Centaurus A itself is apparently the result of a collision of two galaxi…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0010/CenA_wfpc2.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 970358400000,
+      "fetchedAt": 1784026008243,
+      "readingSeconds": 32,
       "extendedContent": null,
       "aiEnhanced": false
     },
