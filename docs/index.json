@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783992598681,
+  "updatedAt": 1783992944331,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -13,7 +13,7 @@
       "emoji": "⚡",
       "label": "Avances científicos",
       "color": "#C08552",
-      "count": 4
+      "count": 7
     },
     {
       "category": "BIOGRAFIAS",
@@ -27,42 +27,42 @@
       "emoji": "🔬",
       "label": "Ciencia",
       "color": "#4A7BA6",
-      "count": 5
+      "count": 8
     },
     {
       "category": "ECONOMIA",
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 5
+      "count": 7
     },
     {
       "category": "EMPRENDIMIENTO",
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 5
+      "count": 7
     },
     {
       "category": "ESPACIO",
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 17
+      "count": 23
     },
     {
       "category": "ESTOICISMO",
       "emoji": "🪨",
       "label": "Estoicismo",
       "color": "#6E6E6E",
-      "count": 5
+      "count": 6
     },
     {
       "category": "FILOSOFIA",
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 5
+      "count": 9
     },
     {
       "category": "FINANZAS",
@@ -90,14 +90,14 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 8
+      "count": 16
     },
     {
       "category": "NEGOCIOS",
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 5
+      "count": 6
     },
     {
       "category": "TECNOLOGIA",
@@ -107,5 +107,5 @@
       "count": 15
     }
   ],
-  "total": 118
+  "total": 148
 }
