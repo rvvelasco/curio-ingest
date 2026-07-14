@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783985623056,
+  "updatedAt": 1783989467554,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -9,18 +9,25 @@
       "count": 6
     },
     {
+      "category": "BIOGRAFIAS",
+      "emoji": "👤",
+      "label": "Biografías",
+      "color": "#7A6C8A",
+      "count": 10
+    },
+    {
       "category": "ESPACIO",
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 14
+      "count": 20
     },
     {
       "category": "HISTORIA",
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 14
+      "count": 26
     },
     {
       "category": "IA",
@@ -30,12 +37,19 @@
       "count": 14
     },
     {
+      "category": "LIBROS",
+      "emoji": "📖",
+      "label": "Libros",
+      "color": "#9C6B4E",
+      "count": 8
+    },
+    {
       "category": "TECNOLOGIA",
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 17
+      "count": 20
     }
   ],
-  "total": 65
+  "total": 104
 }
