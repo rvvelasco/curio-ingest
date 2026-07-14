@@ -3,7 +3,7 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1783992944327,
+  "updatedAt": 1783996371733,
   "posts": [
     {
       "id": "5a47092ea15280e505c5f6b23e9f4c78dc85a38a",
@@ -17,7 +17,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "publishedAt": 1783991044000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
       "publishedAt": 1783987200000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +51,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
       "publishedAt": 1783981130000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +68,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "publishedAt": 1783979171000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +85,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
       "publishedAt": 1783976882000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +102,7 @@
       "sourceName": "NASASpaceflight",
       "sourceUrl": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
       "publishedAt": 1783974572000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +119,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
       "publishedAt": 1783972403000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +136,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
       "publishedAt": 1783969920000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +153,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
       "publishedAt": 1783967841000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +170,7 @@
       "sourceName": "Arstechnica",
       "sourceUrl": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
       "publishedAt": 1783958703000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +187,7 @@
       "sourceName": "European Spaceflight",
       "sourceUrl": "https://europeanspaceflight.com/netherlands-adopts-mandate-for-its-new-space-agency/",
       "publishedAt": 1783956542000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 21,
       "extendedContent": null,
       "aiEnhanced": false
@@ -204,7 +204,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
       "publishedAt": 1783955476000,
-      "fetchedAt": 1783992926056,
+      "fetchedAt": 1783996348998,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -244,6 +244,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "ec14c7bc10a1e98d7af69e9eae4ea4a2ca96e2f6",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Seeing Titan",
+      "summary": "Shrouded in a thick atmosphere, Saturn's largest moon Titan really is hard to see. Small particles suspended in the upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding Titan's surface features from prying eyes. But Titan's surface is better imaged at infrared wavelengths where scattering is weaker and atmospheric absorption is reduced. Arrayed around this centered visible light image of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing o…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1808/PIA21923_fig1SeeingTitan1024.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1534550400000,
+      "fetchedAt": 1783996352657,
+      "readingSeconds": 28,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "22644baf6e775133ff0f75c09edfea61d13f5892",
       "category": "ESPACIO",
       "subcategory": null,
@@ -257,6 +274,40 @@
       "publishedAt": 1513987200000,
       "fetchedAt": 1783992926720,
       "readingSeconds": 28,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "fc3d7e69c6cd1d7b88c67afbc63ab6a456cb9290",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Omega Centauri: The Brightest Globular Star Cluster",
+      "summary": "This huge ball of stars predates our Sun. Long before humankind evolved, before dinosaurs roamed, and even before our Earth existed, ancient globs of stars condensed and orbited a young Milky Way Galaxy. Of the 200 or so globular clusters that survive today, Omega Centauri is the largest, containing over ten million stars. Omega Centauri is also the brightest globular cluster, at apparent visual magnitude 3.9 it is visible to southern observers with the unaided eye. Cataloged as NGC 5139, Omega Centauri is about 18,000 light-years away and 150 light-years in diameter. Unlike many other globul…",
+      "curiousFact": "Imagen por Roberto Colombari.",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1604/OmegaCen_Colombari_960.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1461715200000,
+      "fetchedAt": 1783996352657,
+      "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "cd97ff2becb0dce3cb6fdb011d1f4b2bc985b13c",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "October Aurora in Prairie Skies",
+      "summary": "Wind and spaceweather are transformed in this haunting night skyscape. The prairie windmill and colorful auroral display were captured on October 1, from central South Dakota, USA, as a good season for aurora hunters came with longer autumn nights. From green to rarer reddish hues, the northern lights are sparked by the geomagnetic storms caused by solar activity. These extend far above the cloud bank to altitudes well over 100 kilometers, against the backdrop of distant stars in the northern night. Visual double star Mizar, marking the middle of the Big Dipper's handle, is easy to spot at th…",
+      "curiousFact": "Imagen por Randy Halverson.",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1310/IMG_0228dakotalapse900.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1380931200000,
+      "fetchedAt": 1783996352656,
+      "readingSeconds": 30,
       "extendedContent": null,
       "aiEnhanced": false
     },
@@ -295,6 +346,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "83d5400a09e5ff2d583991c9e627bd0162bb8d31",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Dawn Before Nova",
+      "summary": "Will this dawn bring another nova? Such dilemmas might be pondered one day by future humans living on a planet orbiting a cataclysmic variable binary star system. Cataclysmic variables involve gas falling from a large star onto an accretion disk surrounding a massive but compact white dwarf star. Explosive cataclysmic events such as a dwarf nova can occur when a clump of gas in the interior of the accretion disk heats up past a certain temperature. At that point, the clump will fall more quickly onto the white dwarf and land with a bright flash. Such dwarf novas will not destroy either star,…",
+      "curiousFact": "Imagen por Mark A. Garlick (Space-art.co.uk).",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0911/cvdawn_garlick.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1258416000000,
+      "fetchedAt": 1783996352657,
+      "readingSeconds": 31,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "ded862391dc3fd981a8414767a5e8736e4084578",
       "category": "ESPACIO",
       "subcategory": null,
@@ -308,6 +376,40 @@
       "publishedAt": 1226707200000,
       "fetchedAt": 1783992587908,
       "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "d599d4a01439c7975b1b2982313e87686fd38056",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Cassini Passes Through Ice Plumes of Enceladus",
+      "summary": "What telling impurities taint the ice plumes of Enceladus? To help answer this question, the robotic Cassini spacecraft dove last week to within 30 kilometers of Saturn's ice-plume emitting moon. At this closest-ever approach, Cassini attempted to sniff and obtain chemical data on particles ejected from Enceladus' regular surface, while at other times Cassini flew right through -- and sampled -- ice geysers directly. Searches in the data for impurity clues in the water-ice dominated plumes and surface ejecta are progressing. Although the main purpose of this flyby was particle analysis, sever…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0810/enceladus9_cassini.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1223856000000,
+      "fetchedAt": 1783996352657,
+      "readingSeconds": 28,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "191dbd9b56b9096f1897673e7c0c4cc39e5f4a10",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Analemma over Ukraine",
+      "summary": "If you took a picture of the Sun at the same time each day, would it remain in the same position? The answer is no, and the shape traced out by the Sun over the course of a year is called an analemma. The Sun's apparent shift is caused by the Earth's motion around the Sun when combined with the tilt of the Earth's rotation axis. The Sun will appear at its highest point of the analemma during summer and at its lowest during winter. Analemmas created from different Earth latitudes would appear at least slightly different, as well as analemmas created at a different time each day. The analemma p…",
+      "curiousFact": "Imagen por Vasilij Rumyantsev ( Crimean Astrophysical Obsevatory).",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0706/analemma_vr.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1182038400000,
+      "fetchedAt": 1783996352657,
+      "readingSeconds": 33,
       "extendedContent": null,
       "aiEnhanced": false
     },
