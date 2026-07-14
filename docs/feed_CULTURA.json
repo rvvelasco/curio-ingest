@@ -3,7 +3,7 @@
   "emoji": "🧠",
   "label": "Cultura General",
   "color": "#8E7CC3",
-  "updatedAt": 1783988758306,
+  "updatedAt": 1783992112796,
   "posts": [
     {
       "id": "bd2a3b5f3bc24f753c37bb1486ec6d34e4375f73",
@@ -17,7 +17,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Inteligencia_artificial",
       "publishedAt": null,
-      "fetchedAt": 1783988758298,
+      "fetchedAt": 1783992112650,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false

@@ -1,0 +1,43 @@
+{
+  "category": "ECONOMIA",
+  "emoji": "📈",
+  "label": "Economía",
+  "color": "#3F8E9E",
+  "updatedAt": 1783992112797,
+  "posts": [
+    {
+      "id": "17b0c7fc3ae619738a6e1ed7b2f54935adc86b25",
+      "category": "ECONOMIA",
+      "subcategory": null,
+      "title": "Inflación",
+      "summary": "(demo) Resumen de \"Inflación\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Inflaci%C3%B3n",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "ba3fe23cd8e6371b89cabd8d417170ae707d6192",
+      "category": "ECONOMIA",
+      "subcategory": null,
+      "title": "Producto interno bruto",
+      "summary": "(demo) Resumen de \"Producto interno bruto\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Producto%20interno%20bruto",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

@@ -1,41 +1,146 @@
 {
-  "updatedAt": 1783985623056,
+  "updatedAt": 1783992112800,
   "categories": [
     {
       "category": "AJEDREZ",
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 6
+      "count": 2
+    },
+    {
+      "category": "AVANCES",
+      "emoji": "⚡",
+      "label": "Avances científicos",
+      "color": "#C08552",
+      "count": 2
+    },
+    {
+      "category": "BIOGRAFIAS",
+      "emoji": "👤",
+      "label": "Biografías",
+      "color": "#7A6C8A",
+      "count": 1
+    },
+    {
+      "category": "CIENCIA",
+      "emoji": "🔬",
+      "label": "Ciencia",
+      "color": "#4A7BA6",
+      "count": 2
+    },
+    {
+      "category": "CULTURA",
+      "emoji": "🧠",
+      "label": "Cultura General",
+      "color": "#8E7CC3",
+      "count": 1
+    },
+    {
+      "category": "ECONOMIA",
+      "emoji": "📈",
+      "label": "Economía",
+      "color": "#3F8E9E",
+      "count": 2
+    },
+    {
+      "category": "EMPRENDIMIENTO",
+      "emoji": "👨‍💼",
+      "label": "Emprendimiento",
+      "color": "#B5783E",
+      "count": 2
     },
     {
       "category": "ESPACIO",
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 14
+      "count": 3
+    },
+    {
+      "category": "ESTOICISMO",
+      "emoji": "🪨",
+      "label": "Estoicismo",
+      "color": "#6E6E6E",
+      "count": 2
+    },
+    {
+      "category": "FILOSOFIA",
+      "emoji": "🏛",
+      "label": "Filosofía",
+      "color": "#8A7A6D",
+      "count": 2
+    },
+    {
+      "category": "FINANZAS",
+      "emoji": "💰",
+      "label": "Finanzas Personales",
+      "color": "#4F9D69",
+      "count": 2
+    },
+    {
+      "category": "GEOGRAFIA",
+      "emoji": "🌍",
+      "label": "Geografía",
+      "color": "#4C8577",
+      "count": 3
     },
     {
       "category": "HISTORIA",
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 14
+      "count": 2
     },
     {
       "category": "IA",
       "emoji": "🤖",
       "label": "Inteligencia Artificial",
       "color": "#6C7A9C",
-      "count": 14
+      "count": 2
+    },
+    {
+      "category": "LIBROS",
+      "emoji": "📖",
+      "label": "Libros",
+      "color": "#9C6B4E",
+      "count": 2
+    },
+    {
+      "category": "NEGOCIOS",
+      "emoji": "🏢",
+      "label": "Negocios",
+      "color": "#5A7D9A",
+      "count": 2
+    },
+    {
+      "category": "NOTICIAS_CIEN",
+      "emoji": "📰",
+      "label": "Noticias Científicas",
+      "color": "#4A7BA6",
+      "count": 1
+    },
+    {
+      "category": "NOTICIAS_ECO",
+      "emoji": "📰",
+      "label": "Noticias Económicas",
+      "color": "#3F8E9E",
+      "count": 1
+    },
+    {
+      "category": "NOTICIAS_TEC",
+      "emoji": "📰",
+      "label": "Noticias Tecnológicas",
+      "color": "#5B8C85",
+      "count": 1
     },
     {
       "category": "TECNOLOGIA",
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 17
+      "count": 2
     }
   ],
-  "total": 65
+  "total": 37
 }

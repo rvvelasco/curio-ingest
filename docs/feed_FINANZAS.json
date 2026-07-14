@@ -1,0 +1,43 @@
+{
+  "category": "FINANZAS",
+  "emoji": "💰",
+  "label": "Finanzas Personales",
+  "color": "#4F9D69",
+  "updatedAt": 1783992112797,
+  "posts": [
+    {
+      "id": "1e5f9cd808248624b5fa19417293958504211903",
+      "category": "FINANZAS",
+      "subcategory": null,
+      "title": "Interés compuesto",
+      "summary": "(demo) Resumen de \"Interés compuesto\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Inter%C3%A9s%20compuesto",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "468ace0ca79d7211759bd8973c678caa25de6d32",
+      "category": "FINANZAS",
+      "subcategory": null,
+      "title": "Presupuesto",
+      "summary": "(demo) Resumen de \"Presupuesto\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Presupuesto",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

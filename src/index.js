@@ -21,6 +21,9 @@ import { fetchCountries } from "./sources/countries.js";
 import { fetchOpenLibrary } from "./sources/openlibrary.js";
 import { fetchWikiFeatured } from "./sources/wikiculture.js";
 import { fetchBirthsToday } from "./sources/biographies.js";
+import { wikiTopics, SEEDS } from "./sources/wikitopics.js";
+import { gdeltNews } from "./sources/gdeltnews.js";
+import { Category } from "./schema.js";
 
 const SOURCES = [
   ["Wikipedia · Efemérides", fetchWikipediaOnThisDay],
@@ -34,6 +37,19 @@ const SOURCES = [
   ["Open Library · Libros", fetchOpenLibrary],
   ["Wikipedia · Cultura", fetchWikiFeatured],
   ["Wikipedia · Biografías", fetchBirthsToday],
+  // Temas curados de Wikipedia (con imagen) para llenar el resto de categorías:
+  ["Filosofía", () => wikiTopics(Category.FILOSOFIA, SEEDS.FILOSOFIA)],
+  ["Estoicismo", () => wikiTopics(Category.ESTOICISMO, SEEDS.ESTOICISMO)],
+  ["Ciencia", () => wikiTopics(Category.CIENCIA, SEEDS.CIENCIA)],
+  ["Avances científicos", () => wikiTopics(Category.AVANCES, SEEDS.AVANCES)],
+  ["Economía", () => wikiTopics(Category.ECONOMIA, SEEDS.ECONOMIA)],
+  ["Finanzas", () => wikiTopics(Category.FINANZAS, SEEDS.FINANZAS)],
+  ["Negocios", () => wikiTopics(Category.NEGOCIOS, SEEDS.NEGOCIOS)],
+  ["Emprendimiento", () => wikiTopics(Category.EMPRENDIMIENTO, SEEDS.EMPRENDIMIENTO)],
+  // Noticias reales (GDELT, sin key):
+  ["Noticias · Tecnología", () => gdeltNews(Category.NOTICIAS_TEC, "tecnología")],
+  ["Noticias · Ciencia", () => gdeltNews(Category.NOTICIAS_CIEN, "ciencia")],
+  ["Noticias · Economía", () => gdeltNews(Category.NOTICIAS_ECO, "economía")],
 ];
 
 async function run() {

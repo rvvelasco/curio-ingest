@@ -3,7 +3,7 @@
   "emoji": "👤",
   "label": "Biografías",
   "color": "#7A6C8A",
-  "updatedAt": 1783988758308,
+  "updatedAt": 1783992112798,
   "posts": [
     {
       "id": "8f39240859c85d126f27a723611455838ca0c406",
@@ -17,7 +17,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Marie_Curie",
       "publishedAt": null,
-      "fetchedAt": 1783988758299,
+      "fetchedAt": 1783992112707,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false

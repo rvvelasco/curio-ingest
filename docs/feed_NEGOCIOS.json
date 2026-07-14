@@ -1,0 +1,43 @@
+{
+  "category": "NEGOCIOS",
+  "emoji": "🏢",
+  "label": "Negocios",
+  "color": "#5A7D9A",
+  "updatedAt": 1783992112797,
+  "posts": [
+    {
+      "id": "4b8f6fdc1ba8dce23452fb71943158b0ecfc455d",
+      "category": "NEGOCIOS",
+      "subcategory": null,
+      "title": "Modelo de negocio",
+      "summary": "(demo) Resumen de \"Modelo de negocio\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Modelo%20de%20negocio",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "0f9d17930a7d5a0c1c494376546435845984ffcf",
+      "category": "NEGOCIOS",
+      "subcategory": null,
+      "title": "Marketing",
+      "summary": "(demo) Resumen de \"Marketing\". En la corrida real, Wikipedia trae el texto e imagen.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Marketing",
+      "publishedAt": null,
+      "fetchedAt": 1783992112640,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}
