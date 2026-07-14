@@ -3,8 +3,42 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784036737090,
+  "updatedAt": 1784045782223,
   "posts": [
+    {
+      "id": "3caff891ab8c0ad535427f17f8713e230d375964",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense",
+      "summary": "Antaris™ today announced a strategic reorganization establishing Aeonyx™, a mission virtualization company focused on helping defense organizations evaluate architectures, validate operational concepts, improve operational performance and flexibility, and understand mission […] The post Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense appeared first on SpaceNews.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/antaris-logo.png?fit=1024%2C1024&ssl=1",
+      "sourceName": "SpaceNews",
+      "sourceUrl": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
+      "publishedAt": 1784040988000,
+      "fetchedAt": 1784045756703,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "6927ae9fba485ad709fdf4ac28f1b47a54eed1ef",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Soyuz MS-29 set to launch new crew to ISS from Russia",
+      "summary": "The next crew launch to the International Space Station is scheduled for Tuesday, July 14,… The post Soyuz MS-29 set to launch new crew to ISS from Russia appeared first on NASASpaceFlight.com.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_3815-e1783974498116.jpeg",
+      "sourceName": "NASASpaceflight",
+      "sourceUrl": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
+      "publishedAt": 1784036954000,
+      "fetchedAt": 1784045756703,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "6795b7321a87f725cb495725cc9b1379cd1590a8",
       "category": "ESPACIO",
@@ -17,7 +51,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
       "publishedAt": 1784030839000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +68,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA",
       "publishedAt": 1784015340000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +85,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
       "publishedAt": 1784001660000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +102,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "publishedAt": 1783991044000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +119,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
       "publishedAt": 1783987200000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +136,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
       "publishedAt": 1783981130000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +153,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "publishedAt": 1783979171000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +170,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
       "publishedAt": 1783976882000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +187,7 @@
       "sourceName": "NASASpaceflight",
       "sourceUrl": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
       "publishedAt": 1783974572000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756704,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +204,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
       "publishedAt": 1783972403000,
-      "fetchedAt": 1784036714394,
+      "fetchedAt": 1784045756704,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -273,6 +307,23 @@
       "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
       "publishedAt": 1761868800000,
       "fetchedAt": 1784007081467,
+      "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "78aa89d722378c47c15385918233dad485067248",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Lunar Farside",
+      "summary": "Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered wi…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1751068800000,
+      "fetchedAt": 1784045757097,
       "readingSeconds": 29,
       "extendedContent": null,
       "aiEnhanced": false
@@ -822,6 +873,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "dc92a871f09c3c61a83a26bb49d6d47c10a8da27",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "IC 1805: Light from the Heart",
+      "summary": "Sprawling across hundreds of light-years, emission nebula IC 1805 is a mix of glowing interstellar gas and dark dust clouds. Only about 7,500 light-years away, stars were born in this region whose nickname - the Heart Nebula - derives from its suggestive shape (seen here sideways). This gorgeous, deep telescopic image of the nebula is very colorful, but if you could travel there and gaze across these cosmic clouds with your own eyes, are those the colors you would really see? The short answer is no, even though the image was made with light visible to the human eye. Light from this and other…",
+      "curiousFact": "Imagen por Richard Crisp.",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0409/ic1805_crisp_h1c1.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1095379200000,
+      "fetchedAt": 1784045757097,
+      "readingSeconds": 31,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "612405b7e9fb3065c9086552f3fb43d971f122ef",
       "category": "ESPACIO",
       "subcategory": null,
@@ -890,6 +958,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "ede2be8cfbe45cd7a05dfbb437f31eb96ad90e63",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Astronomy From An F-18",
+      "summary": "In an era of blossoming ground and space-based observatories, astronomers are also pushing the envelope with airborne instrumentation - successfully capturing an asteroid occultation from a high performance jet aircraft. This blinking animation represents two digitized frames from inflight data of asteroid number 308, Polyxo, passing in front of or occulting a faint star near the center of the field. The camera used, known as the SouthWest Ultraviolet Imaging System (SWUIS) -A, was mounted in the cockpit of a NASA F/A-18 jet (inset lower left). A former US Navy fighter aircraft, the F/A-18 wa…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0001/polyxo_f18_3.gif",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 949017600000,
+      "fetchedAt": 1784045757097,
+      "readingSeconds": 28,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "e3d862570b656cda3b42a0b35f2eb0185f27fe91",
       "category": "ESPACIO",
       "subcategory": null,
@@ -920,6 +1005,23 @@
       "publishedAt": 922579200000,
       "fetchedAt": 1784016380373,
       "readingSeconds": 32,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "8bd5c292f973b2a2c0c4b5f9e4419cf0ed044047",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Closeup of Antennae Galaxy Collision",
+      "summary": "It's a clash of the titans. Two galaxies are squaring off in Corvus and here are the latest pictures. When two galaxies collide, however, the stars that compose them usually do not. This is because galaxies are mostly empty space and, however bright, stars only take up only a small amount of that space. But during the slow, hundred million year collision, one galaxy can rip the other apart gravitationally, and dust and gas common to both galaxies does collide. In the above wreckage, dark dust pillars mark massive molecular clouds, which are being compressed during the galactic encounter, caus…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/9710/antcen4_hst.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 877910400000,
+      "fetchedAt": 1784045757097,
+      "readingSeconds": 30,
       "extendedContent": null,
       "aiEnhanced": false
     }

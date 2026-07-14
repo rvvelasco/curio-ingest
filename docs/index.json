@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784036737098,
+  "updatedAt": 1784045782231,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -55,7 +55,7 @@
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 54
+      "count": 60
     },
     {
       "category": "ESTOICISMO",
@@ -97,7 +97,7 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 30
+      "count": 38
     },
     {
       "category": "NEGOCIOS",
@@ -111,8 +111,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 36
+      "count": 46
     }
   ],
-  "total": 256
+  "total": 280
 }
