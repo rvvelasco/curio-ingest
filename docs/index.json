@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784045782231,
+  "updatedAt": 1784056883875,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -69,7 +69,7 @@
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 13
+      "count": 15
     },
     {
       "category": "FINANZAS",
@@ -111,8 +111,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 46
+      "count": 50
     }
   ],
-  "total": 280
+  "total": 286
 }
