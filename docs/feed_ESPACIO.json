@@ -3,8 +3,25 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784026025419,
+  "updatedAt": 1784036737090,
   "posts": [
+    {
+      "id": "6795b7321a87f725cb495725cc9b1379cd1590a8",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "U.K. government preparing to release new space strategy",
+      "summary": "The British government is preparing to release a new space strategy that will provide a “whole-of-government” approach for space in the country. The post U.K. government preparing to release new space strategy appeared first on SpaceNews.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/evernden-spacetide.jpeg?fit=1024%2C700&ssl=1",
+      "sourceName": "SpaceNews",
+      "sourceUrl": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
+      "publishedAt": 1784030839000,
+      "fetchedAt": 1784036714394,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "d15733a29bcd10bf8ea3fe18c2e7e27d6f1aaaa2",
       "category": "ESPACIO",
@@ -17,7 +34,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA",
       "publishedAt": 1784015340000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +51,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
       "publishedAt": 1784001660000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +68,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
       "publishedAt": 1783991044000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +85,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
       "publishedAt": 1783987200000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +102,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
       "publishedAt": 1783981130000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +119,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "publishedAt": 1783979171000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +136,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
       "publishedAt": 1783976882000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +153,7 @@
       "sourceName": "NASASpaceflight",
       "sourceUrl": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
       "publishedAt": 1783974572000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +170,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
       "publishedAt": 1783972403000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +187,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
       "publishedAt": 1783969920000,
-      "fetchedAt": 1784026007602,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +204,7 @@
       "sourceName": "Spaceflight Now",
       "sourceUrl": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
       "publishedAt": 1783967841000,
-      "fetchedAt": 1784026007603,
+      "fetchedAt": 1784036714394,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -414,6 +431,23 @@
       "aiEnhanced": false
     },
     {
+      "id": "5084968ce3485bc42fb548c13b7b4b915b7bf204",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Venus at Night in Infrared from Akatsuki",
+      "summary": "Why is Venus so different from Earth? To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System. Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki's instruments investigated unknowns about Earth's sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1801/VenusNight_AkatsukiBouic_960.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1517270400000,
+      "fetchedAt": 1784036715552,
+      "readingSeconds": 27,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "22644baf6e775133ff0f75c09edfea61d13f5892",
       "category": "ESPACIO",
       "subcategory": null,
@@ -465,6 +499,40 @@
       "aiEnhanced": false
     },
     {
+      "id": "6e688da35fb4930bae881b4553b54256ed230347",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Crescent Rhea Occults Crescent Saturn",
+      "summary": "Soft hues, partially lit orbs, a thin trace of the ring, and slight shadows highlight this understated view of the majestic surroundings of the giant planet Saturn. Looking nearly back toward the Sun, the robot Cassini spacecraft now orbiting Saturn captured crescent phases of Saturn and its moon Rhea in color a few years ago. As striking as the above image is, it is but a single frame from a 60-frame silent movie where Rhea can be seen gliding in front of its parent world. Since Cassini was nearly in the plane of Saturn's rings, the normally impressive rings are visible here only as a thin l…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1501/saturnrhea_cassini_960.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1420329600000,
+      "fetchedAt": 1784036715552,
+      "readingSeconds": 32,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "39df6a2658799639345d8e66a9e9396a0f8564ed",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Unusual Light Pillars over Latvia",
+      "summary": "What's happening over that town? Close inspection shows these strange columns of light occur over bright lights, and so likely are light pillars that involve falling ice crystals reflecting back these lights. The above image and several similar images were taken with a standard digital camera in Sigulda, Latvia in late 2009. The reason why these pillars fan out at the top, however, remains a topic for speculation. The air was noted to be quite cold and indeed filled with small ice crystals, just the type known to create several awe-inspiring but well known sky phenomena such as light pillars,…",
+      "curiousFact": "Imagen por Aigar Truhin.",
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1412/icepillar_truhin_960.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1419724800000,
+      "fetchedAt": 1784036715552,
+      "readingSeconds": 30,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
       "id": "cd97ff2becb0dce3cb6fdb011d1f4b2bc985b13c",
       "category": "ESPACIO",
       "subcategory": null,
@@ -477,6 +545,23 @@
       "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
       "publishedAt": 1380931200000,
       "fetchedAt": 1783996352656,
+      "readingSeconds": 30,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "3faf7d3245ced5eab275fdbe8a572eb06146c6a4",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Yuri's Planet",
+      "summary": "On another April 12th, in 1961, Soviet cosmonaut Yuri Alexseyevich Gagarin became the first human to see planet Earth from space. Commenting on his view from orbit he reported, \"The sky is very dark; the Earth is bluish. Everything is seen very clearly\". On yet another April 12th, in 1981 NASA launched the first space shuttle. To celebrate in 2013, consider this image from the orbiting International Space Station, a stunning view of the planet at night from low Earth orbit. Constellations of lights connecting the densely populated cities along the Atlantic east coast of the United States are…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/1304/iss030e078095_ap900.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1365724800000,
+      "fetchedAt": 1784036715552,
       "readingSeconds": 30,
       "extendedContent": null,
       "aiEnhanced": false
@@ -648,6 +733,23 @@
       "publishedAt": 1140048000000,
       "fetchedAt": 1784026008243,
       "readingSeconds": 29,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "65efbd4692a42396c10b9901a1443c4211ee659d",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "Rollout of Soyuz TMA-2 Aboard an R7 Rocket",
+      "summary": "It takes a big rocket to go into space. In 2003 April, this huge Russian rocket was launched toward Earth-orbiting International Space Station (ISS), carrying two astronauts who will make up the new Expedition 7 crew. Seen here during rollout at the Baikonur Cosmodrome, the rocket's white top is actually the Soyuz TMA-2, the most recent version of the longest serving type of human spacecraft. The base is a Russian R7 rocket, originally developed as a prototype Intercontinental Ballistic Missile in 1957. The rocket spans the width of a football field and has a fueled mass of about half a milli…",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://apod.nasa.gov/apod/image/0510/tma2_nasa.jpg",
+      "sourceName": "NASA APOD",
+      "sourceUrl": "https://apod.nasa.gov/apod/astropix.html",
+      "publishedAt": 1128816000000,
+      "fetchedAt": 1784036715552,
+      "readingSeconds": 30,
       "extendedContent": null,
       "aiEnhanced": false
     },

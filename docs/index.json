@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784026025425,
+  "updatedAt": 1784036737098,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -55,7 +55,7 @@
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 48
+      "count": 54
     },
     {
       "category": "ESTOICISMO",
@@ -111,8 +111,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 31
+      "count": 36
     }
   ],
-  "total": 245
+  "total": 256
 }
