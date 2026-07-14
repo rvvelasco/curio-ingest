@@ -16,14 +16,24 @@ import { fetchArxivAI } from "./sources/arxiv.js";
 import { fetchLichessDailyPuzzle } from "./sources/lichess.js";
 import { fetchHackerNews } from "./sources/hackernews.js";
 import { fetchStockfishReleases } from "./sources/stockfish.js";
+import { fetchNasaApod } from "./sources/nasa.js";
+import { fetchCountries } from "./sources/countries.js";
+import { fetchOpenLibrary } from "./sources/openlibrary.js";
+import { fetchWikiFeatured } from "./sources/wikiculture.js";
+import { fetchBirthsToday } from "./sources/biographies.js";
 
 const SOURCES = [
   ["Wikipedia · Efemérides", fetchWikipediaOnThisDay],
   ["Spaceflight News", fetchSpaceflight],
+  ["NASA · APOD (imágenes)", fetchNasaApod],
   ["arXiv · IA", fetchArxivAI],
   ["Lichess · Puzzle", fetchLichessDailyPuzzle],
   ["Hacker News", fetchHackerNews],
   ["Stockfish · Releases", fetchStockfishReleases],
+  ["REST Countries · Geografía", fetchCountries],
+  ["Open Library · Libros", fetchOpenLibrary],
+  ["Wikipedia · Cultura", fetchWikiFeatured],
+  ["Wikipedia · Biografías", fetchBirthsToday],
 ];
 
 async function run() {
@@ -59,7 +69,7 @@ async function run() {
 
   // 4: fusionar con lo previo y escribir.
   const { total, categories } = await mergeAndWrite(posts);
-  console.log(`\n💾 Escrito en /out: ${total} posts en ${categories} categorías.`);
+  console.log(`\n💾 Escrito en /docs: ${total} posts en ${categories} categorías.`);
   console.log(`   feed_all.json · index.json · feed_<CATEGORIA>.json\n`);
 }
 

@@ -3,7 +3,7 @@
   "emoji": "🤖",
   "label": "Inteligencia Artificial",
   "color": "#6C7A9C",
-  "updatedAt": 1783984464883,
+  "updatedAt": 1783988758308,
   "posts": [
     {
       "id": "8b37b4906f4c3f57d43bf2996d01d887fe421ee8",
@@ -17,7 +17,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.01234v1",
       "publishedAt": 1783706400000,
-      "fetchedAt": 1783984464873,
+      "fetchedAt": 1783988758203,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.05678v1",
       "publishedAt": 1783598400000,
-      "fetchedAt": 1783984464873,
+      "fetchedAt": 1783988758203,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false

@@ -3,7 +3,7 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1783984464884,
+  "updatedAt": 1783988758309,
   "posts": [
     {
       "id": "ea0fd5def9802af123a0f256279403631edf65a9",
@@ -16,8 +16,8 @@
       "imageUrl": null,
       "sourceName": "Lichess",
       "sourceUrl": "https://lichess.org/training/PzXy9",
-      "publishedAt": 1783984464873,
-      "fetchedAt": 1783984464874,
+      "publishedAt": 1783988758200,
+      "fetchedAt": 1783988758200,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
       "publishedAt": 1780308000000,
-      "fetchedAt": 1783984464875,
+      "fetchedAt": 1783988758201,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false

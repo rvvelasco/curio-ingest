@@ -3,7 +3,7 @@
   "emoji": "💻",
   "label": "Tecnología",
   "color": "#5B8C85",
-  "updatedAt": 1783984464878,
+  "updatedAt": 1783988758307,
   "posts": [
     {
       "id": "dd465b03407f0d7da50b421e450c616c612f5b7c",
@@ -17,7 +17,7 @@
       "sourceName": "Hacker News",
       "sourceUrl": "https://example.com/sqlite-wasm",
       "publishedAt": 1752300000000,
-      "fetchedAt": 1783984464874,
+      "fetchedAt": 1783988758199,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "Hacker News",
       "sourceUrl": "https://example.com/weekend-compiler",
       "publishedAt": 1752290000000,
-      "fetchedAt": 1783984464874,
+      "fetchedAt": 1783988758200,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false

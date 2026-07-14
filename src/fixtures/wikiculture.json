@@ -1,0 +1,12 @@
+{
+  "mostread": {
+    "articles": [
+      {
+        "normalizedtitle": "Inteligencia artificial",
+        "extract": "La inteligencia artificial es la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana, como razonar, aprender de datos y tomar decisiones.",
+        "thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Artificial_Intelligence_%26_AI_%26_Machine_Learning.jpg/640px-Artificial_Intelligence_%26_AI_%26_Machine_Learning.jpg"},
+        "content_urls": {"desktop": {"page": "https://es.wikipedia.org/wiki/Inteligencia_artificial"}}
+      }
+    ]
+  }
+}

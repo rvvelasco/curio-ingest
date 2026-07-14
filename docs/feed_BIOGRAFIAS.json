@@ -1,0 +1,26 @@
+{
+  "category": "BIOGRAFIAS",
+  "emoji": "👤",
+  "label": "Biografías",
+  "color": "#7A6C8A",
+  "updatedAt": 1783988758308,
+  "posts": [
+    {
+      "id": "8f39240859c85d126f27a723611455838ca0c406",
+      "category": "BIOGRAFIAS",
+      "subcategory": null,
+      "title": "Marie Curie",
+      "summary": "Marie Curie fue una física y química pionera en el estudio de la radiactividad, primera persona en recibir dos premios Nobel en distintas disciplinas.",
+      "curiousFact": "Nació un día como hoy, en 1889.",
+      "whyItMatters": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c._1920s.jpg/640px-Marie_Curie_c._1920s.jpg",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Marie_Curie",
+      "publishedAt": null,
+      "fetchedAt": 1783988758299,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

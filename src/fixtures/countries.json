@@ -1,0 +1,5 @@
+[
+  {"name": {"common": "Japón"}, "capital": ["Tokio"], "population": 125800000, "region": "Asia", "subregion": "Asia Oriental", "area": 377975, "languages": {"jpn": "Japonés"}, "flags": {"png": "https://flagcdn.com/w320/jp.png"}},
+  {"name": {"common": "Argentina"}, "capital": ["Buenos Aires"], "population": 45376763, "region": "Américas", "subregion": "América del Sur", "area": 2780400, "languages": {"spa": "Español"}, "flags": {"png": "https://flagcdn.com/w320/ar.png"}},
+  {"name": {"common": "Noruega"}, "capital": ["Oslo"], "population": 5379475, "region": "Europa", "subregion": "Europa del Norte", "area": 323802, "languages": {"nor": "Noruego"}, "flags": {"png": "https://flagcdn.com/w320/no.png"}}
+]

@@ -1,0 +1,43 @@
+{
+  "category": "LIBROS",
+  "emoji": "📖",
+  "label": "Libros",
+  "color": "#9C6B4E",
+  "updatedAt": 1783988758308,
+  "posts": [
+    {
+      "id": "a692e12a5dfdaa74b2b891177c9e2a9567e7cf9b",
+      "category": "LIBROS",
+      "subcategory": null,
+      "title": "Sapiens: De animales a dioses",
+      "summary": "\"Sapiens: De animales a dioses\", de Yuval Noah Harari, publicado por primera vez en 2011.",
+      "curiousFact": "Categoría explorada: philosophy.",
+      "whyItMatters": "Un buen libro puede cambiar cómo pensás sobre un tema entero.",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8479576-L.jpg",
+      "sourceName": "Open Library",
+      "sourceUrl": "https://openlibrary.org/works/OL17091839W",
+      "publishedAt": null,
+      "fetchedAt": 1783988758298,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "7223453ab861e18cc8b281a542fec8bac8cca2f8",
+      "category": "LIBROS",
+      "subcategory": null,
+      "title": "Cosmos",
+      "summary": "\"Cosmos\", de Carl Sagan, publicado por primera vez en 1980.",
+      "curiousFact": "Categoría explorada: philosophy.",
+      "whyItMatters": "Un buen libro puede cambiar cómo pensás sobre un tema entero.",
+      "imageUrl": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "sourceName": "Open Library",
+      "sourceUrl": "https://openlibrary.org/works/OL7360446W",
+      "publishedAt": null,
+      "fetchedAt": 1783988758298,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

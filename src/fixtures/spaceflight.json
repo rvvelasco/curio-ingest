@@ -3,18 +3,10 @@
     {
       "title": "El telescopio James Webb detecta vapor de agua en un exoplaneta rocoso",
       "summary": "Nuevas observaciones del telescopio espacial James Webb sugieren la presencia de vapor de agua en la atmósfera de un pequeño planeta rocoso a 26 años luz, un paso importante en la búsqueda de mundos habitables.",
-      "url": "https://www.example-space-news.com/webb-water-vapor",
-      "image_url": "https://images.example.com/webb.jpg",
-      "news_site": "SpaceNews",
+      "url": "https://www.nasa.gov/webb",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/James_Webb_Space_Telescope_2009_top.jpg/640px-James_Webb_Space_Telescope_2009_top.jpg",
+      "news_site": "NASA",
       "published_at": "2026-07-12T09:30:00Z"
-    },
-    {
-      "title": "SpaceX lanza con éxito otra tanda de satélites Starlink",
-      "summary": "Un cohete Falcon 9 puso en órbita 23 satélites Starlink desde Cabo Cañaveral. La primera etapa aterrizó sin problemas en la plataforma marítima, sumando su vigésima reutilización.",
-      "url": "https://www.example-space-news.com/starlink-launch",
-      "image_url": "https://images.example.com/falcon9.jpg",
-      "news_site": "NASASpaceflight",
-      "published_at": "2026-07-11T22:10:00Z"
     }
   ]
 }

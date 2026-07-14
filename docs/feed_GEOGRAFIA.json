@@ -1,0 +1,60 @@
+{
+  "category": "GEOGRAFIA",
+  "emoji": "🌍",
+  "label": "Geografía",
+  "color": "#4C8577",
+  "updatedAt": 1783988758306,
+  "posts": [
+    {
+      "id": "f1a75de0a44aa31cdba5172f9301870953cee619",
+      "category": "GEOGRAFIA",
+      "subcategory": null,
+      "title": "Argentina",
+      "summary": "Argentina está en América del Sur. Su capital es Buenos Aires y tiene alrededor de 45.376.763 habitantes.",
+      "curiousFact": "Idiomas: Español. Superficie: 2.780.400 km².",
+      "whyItMatters": "Conocer el mundo amplía la perspectiva sobre culturas, economías e historia.",
+      "imageUrl": "https://flagcdn.com/w320/ar.png",
+      "sourceName": "REST Countries",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Argentina",
+      "publishedAt": null,
+      "fetchedAt": 1783988758297,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "6fa7f5ff73860166d6bf55bd38e6c810c606fbd7",
+      "category": "GEOGRAFIA",
+      "subcategory": null,
+      "title": "Japón",
+      "summary": "Japón está en Asia Oriental. Su capital es Tokio y tiene alrededor de 125.800.000 habitantes.",
+      "curiousFact": "Idiomas: Japonés. Superficie: 377.975 km².",
+      "whyItMatters": "Conocer el mundo amplía la perspectiva sobre culturas, economías e historia.",
+      "imageUrl": "https://flagcdn.com/w320/jp.png",
+      "sourceName": "REST Countries",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Jap%C3%B3n",
+      "publishedAt": null,
+      "fetchedAt": 1783988758297,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "8dcae339ec0981e1274a7085ff0464903a4a8787",
+      "category": "GEOGRAFIA",
+      "subcategory": null,
+      "title": "Noruega",
+      "summary": "Noruega está en Europa del Norte. Su capital es Oslo y tiene alrededor de 5.379.475 habitantes.",
+      "curiousFact": "Idiomas: Noruego. Superficie: 323.802 km².",
+      "whyItMatters": "Conocer el mundo amplía la perspectiva sobre culturas, economías e historia.",
+      "imageUrl": "https://flagcdn.com/w320/no.png",
+      "sourceName": "REST Countries",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Noruega",
+      "publishedAt": null,
+      "fetchedAt": 1783988758296,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "births": [
+    {
+      "year": 1889,
+      "text": "Nace un célebre científico.",
+      "pages": [{
+        "normalizedtitle": "Marie Curie",
+        "extract": "Marie Curie fue una física y química pionera en el estudio de la radiactividad, primera persona en recibir dos premios Nobel en distintas disciplinas.",
+        "thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c._1920s.jpg/640px-Marie_Curie_c._1920s.jpg"},
+        "content_urls": {"desktop": {"page": "https://es.wikipedia.org/wiki/Marie_Curie"}}
+      }]
+    }
+  ]
+}
