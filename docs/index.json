@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784093575938,
+  "updatedAt": 1784103102954,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -48,7 +48,7 @@
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "ESPACIO",
@@ -104,7 +104,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 8
+      "count": 7
     },
     {
       "category": "TECNOLOGIA",
