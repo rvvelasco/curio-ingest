@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784132589967,
+  "updatedAt": 1784142723286,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -97,7 +97,7 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 38
+      "count": 46
     },
     {
       "category": "NEGOCIOS",
@@ -114,5 +114,5 @@
       "count": 60
     }
   ],
-  "total": 347
+  "total": 355
 }
