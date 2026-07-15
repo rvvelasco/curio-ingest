@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784066312489,
+  "updatedAt": 1784082662088,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -20,7 +20,7 @@
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 10
+      "count": 20
     },
     {
       "category": "CIENCIA",
@@ -34,7 +34,7 @@
       "emoji": "🧠",
       "label": "Cultura General",
       "color": "#8E7CC3",
-      "count": 10
+      "count": 15
     },
     {
       "category": "ECONOMIA",
@@ -83,14 +83,14 @@
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 12
+      "count": 24
     },
     {
       "category": "IA",
       "emoji": "🤖",
       "label": "Inteligencia Artificial",
       "color": "#6C7A9C",
-      "count": 24
+      "count": 36
     },
     {
       "category": "LIBROS",
@@ -111,8 +111,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 55
+      "count": 60
     }
   ],
-  "total": 292
+  "total": 336
 }
