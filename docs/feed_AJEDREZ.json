@@ -3,8 +3,25 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1784142723283,
+  "updatedAt": 1784152906893,
   "posts": [
+    {
+      "id": "2eb12a4e6a3d6d0ddf35328cfd7418299d7d55d9",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1898, jugado 15427 veces. Temas: endgame, crushing, fork, long.",
+      "curiousFact": "Este puzzle entrena: endgame, crushing, fork, long.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": null,
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/pJXRV",
+      "publishedAt": 1784152886003,
+      "fetchedAt": 1784152886004,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "f504616aeeada8f46d1a254f1a252daedaf49d47",
       "category": "AJEDREZ",
