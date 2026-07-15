@@ -3,8 +3,25 @@
   "emoji": "💰",
   "label": "Finanzas Personales",
   "color": "#4F9D69",
-  "updatedAt": 1784103102949,
+  "updatedAt": 1784112653537,
   "posts": [
+    {
+      "id": "468ace0ca79d7211759bd8973c678caa25de6d32",
+      "category": "FINANZAS",
+      "subcategory": null,
+      "title": "Presupuesto",
+      "summary": "El presupuesto es el cálculo, la planificación y la formulación anticipada de los ingresos y gastos de una actividad económica. Es un plan de acción dirigido a cumplir con un objetivo previsto, expresado en términos financieros, el cual debe cumplirse en determinado tiempo, por lo general anual o mensual y en ciertas condiciones. Este concepto se aplica a todos y cada uno de los centros de responsabilidad de una organización.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Brooklyn_Museum_-_Comme_Sisyphe_-_Honor%C3%A9_Daumier.jpg/330px-Brooklyn_Museum_-_Comme_Sisyphe_-_Honor%C3%A9_Daumier.jpg",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Presupuesto",
+      "publishedAt": null,
+      "fetchedAt": 1784112638433,
+      "readingSeconds": 21,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "12ef1277959f234ea3fff03ec29375c9d5c55259",
       "category": "FINANZAS",
@@ -17,7 +34,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Bolsa_de_valores",
       "publishedAt": null,
-      "fetchedAt": 1784103084549,
+      "fetchedAt": 1784112638364,
       "readingSeconds": 21,
       "extendedContent": null,
       "aiEnhanced": false
@@ -87,23 +104,6 @@
       "publishedAt": null,
       "fetchedAt": 1784093556040,
       "readingSeconds": 23,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
-    {
-      "id": "468ace0ca79d7211759bd8973c678caa25de6d32",
-      "category": "FINANZAS",
-      "subcategory": null,
-      "title": "Presupuesto",
-      "summary": "El presupuesto es el cálculo, la planificación y la formulación anticipada de los ingresos y gastos de una actividad económica. Es un plan de acción dirigido a cumplir con un objetivo previsto, expresado en términos financieros, el cual debe cumplirse en determinado tiempo, por lo general anual o mensual y en ciertas condiciones. Este concepto se aplica a todos y cada uno de los centros de responsabilidad de una organización.",
-      "curiousFact": null,
-      "whyItMatters": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Brooklyn_Museum_-_Comme_Sisyphe_-_Honor%C3%A9_Daumier.jpg/330px-Brooklyn_Museum_-_Comme_Sisyphe_-_Honor%C3%A9_Daumier.jpg",
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://es.wikipedia.org/wiki/Presupuesto",
-      "publishedAt": null,
-      "fetchedAt": 1784082643298,
-      "readingSeconds": 21,
       "extendedContent": null,
       "aiEnhanced": false
     }
