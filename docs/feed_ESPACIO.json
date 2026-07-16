@@ -3,8 +3,25 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784218668651,
+  "updatedAt": 1784229151749,
   "posts": [
+    {
+      "id": "faf6b56a4d0dc92896aea086e73f20c058e2f42e",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+      "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be […]",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
+      "sourceName": "NASA",
+      "sourceUrl": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+      "publishedAt": 1784227226000,
+      "fetchedAt": 1784229130221,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "909d5625fa39698c0a03ff6cf758d40a316926cf",
       "category": "ESPACIO",
@@ -17,7 +34,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
       "publishedAt": 1784215785000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +51,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
       "publishedAt": 1784215440000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +68,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
       "publishedAt": 1784214196000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +85,7 @@
       "sourceName": "European Spaceflight",
       "sourceUrl": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
       "publishedAt": 1784213990000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 22,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +102,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/image-article/young-galaxy-cluster/",
       "publishedAt": 1784212546000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +119,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
       "publishedAt": 1784203560000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +136,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
       "publishedAt": 1784203200000,
-      "fetchedAt": 1784218650315,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +153,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series",
       "publishedAt": 1784201400000,
-      "fetchedAt": 1784218650316,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +170,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab",
       "publishedAt": 1784192400000,
-      "fetchedAt": 1784218650316,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +187,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport",
       "publishedAt": 1784185200000,
-      "fetchedAt": 1784218650316,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +204,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
       "publishedAt": 1784185200000,
-      "fetchedAt": 1784218650316,
+      "fetchedAt": 1784229130221,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -1003,23 +1020,6 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "publishedAt": 1783979171000,
-      "fetchedAt": 1784045756703,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
-    {
-      "id": "1e43821bf33e6ae57ec09859736ed38743c2512a",
-      "category": "ESPACIO",
-      "subcategory": null,
-      "title": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
-      "summary": "The Space Development Agency awarded the companies a combined $1.75 billion for next batch of missile-tracking satellites The post L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network appeared first on SpaceNews.",
-      "curiousFact": null,
-      "whyItMatters": null,
-      "imageUrl": "https://spacenews.com/wp-content/uploads/2026/01/l3harris-sas-ss-satellites-production-l3harris-manufacuring-facility-1024x574.avif",
-      "sourceName": "SpaceNews",
-      "sourceUrl": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
-      "publishedAt": 1783976882000,
       "fetchedAt": 1784045756703,
       "readingSeconds": 20,
       "extendedContent": null,

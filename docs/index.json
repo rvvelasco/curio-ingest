@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1784218668656,
+  "updatedAt": 1784229151758,
   "categories": [
     {
       "category": "AJEDREZ",
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 8
+      "count": 9
     },
     {
       "category": "AVANCES",
@@ -41,7 +41,7 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 10
+      "count": 9
     },
     {
       "category": "EMPRENDIMIENTO",
@@ -76,7 +76,7 @@
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 6
+      "count": 7
     },
     {
       "category": "HISTORIA",
@@ -114,5 +114,5 @@
       "count": 60
     }
   ],
-  "total": 394
+  "total": 395
 }
