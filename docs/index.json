@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1784229151758,
+  "updatedAt": 1784239475820,
   "categories": [
     {
       "category": "AJEDREZ",
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 9
+      "count": 10
     },
     {
       "category": "AVANCES",
@@ -114,5 +114,5 @@
       "count": 60
     }
   ],
-  "total": 395
+  "total": 396
 }
