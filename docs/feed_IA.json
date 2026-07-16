@@ -3,7 +3,7 @@
   "emoji": "🤖",
   "label": "Inteligencia Artificial",
   "color": "#6C7A9C",
-  "updatedAt": 1784209946639,
+  "updatedAt": 1784218668651,
   "posts": [
     {
       "id": "f6aabae3fed5722a5c322e8f2ca294f88b106602",
@@ -17,7 +17,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14049v1",
       "publishedAt": 1784135803000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 26,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14046v1",
       "publishedAt": 1784135716000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 23,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +51,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14044v1",
       "publishedAt": 1784135643000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +68,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14041v1",
       "publishedAt": 1784135557000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 26,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +85,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14037v1",
       "publishedAt": 1784135106000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 25,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +102,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14024v1",
       "publishedAt": 1784134542000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 26,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +119,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14018v1",
       "publishedAt": 1784134243000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 25,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +136,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14006v1",
       "publishedAt": 1784133414000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 22,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +153,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.14004v1",
       "publishedAt": 1784133364000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 29,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +170,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.13998v1",
       "publishedAt": 1784132868000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +187,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.13978v1",
       "publishedAt": 1784131435000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 25,
       "extendedContent": null,
       "aiEnhanced": false
@@ -204,7 +204,7 @@
       "sourceName": "arXiv",
       "sourceUrl": "http://arxiv.org/abs/2607.13940v1",
       "publishedAt": 1784128931000,
-      "fetchedAt": 1784209926640,
+      "fetchedAt": 1784218650442,
       "readingSeconds": 24,
       "extendedContent": null,
       "aiEnhanced": false
