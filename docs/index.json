@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784152906897,
+  "updatedAt": 1784169567552,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -20,7 +20,7 @@
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 20
+      "count": 30
     },
     {
       "category": "CIENCIA",
@@ -34,7 +34,7 @@
       "emoji": "🧠",
       "label": "Cultura General",
       "color": "#8E7CC3",
-      "count": 15
+      "count": 18
     },
     {
       "category": "ECONOMIA",
@@ -83,7 +83,7 @@
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 24
+      "count": 36
     },
     {
       "category": "IA",
@@ -114,5 +114,5 @@
       "count": 60
     }
   ],
-  "total": 356
+  "total": 381
 }
