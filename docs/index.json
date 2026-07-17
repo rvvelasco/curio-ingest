@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784285281721,
+  "updatedAt": 1784295561214,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -41,7 +41,7 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 9
+      "count": 10
     },
     {
       "category": "EMPRENDIMIENTO",
@@ -76,7 +76,7 @@
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 7
+      "count": 6
     },
     {
       "category": "HISTORIA",

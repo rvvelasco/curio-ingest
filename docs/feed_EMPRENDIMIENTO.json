@@ -3,7 +3,7 @@
   "emoji": "👨‍💼",
   "label": "Emprendimiento",
   "color": "#B5783E",
-  "updatedAt": 1784285281716,
+  "updatedAt": 1784295561209,
   "posts": [
     {
       "id": "68d7af7c12bd86b4c660fed4dc66c71167d70661",
@@ -17,7 +17,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Empresa_emergente",
       "publishedAt": null,
-      "fetchedAt": 1784285260392,
+      "fetchedAt": 1784295536644,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Steve_Jobs",
       "publishedAt": null,
-      "fetchedAt": 1784285260385,
+      "fetchedAt": 1784295536626,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,8 +51,25 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Innovaci%C3%B3n",
       "publishedAt": null,
-      "fetchedAt": 1784285260365,
+      "fetchedAt": 1784295536611,
       "readingSeconds": 23,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "2b476cefefdb97ca9c0269a64265f72f63ce89b5",
+      "category": "EMPRENDIMIENTO",
+      "subcategory": null,
+      "title": "Capital riesgo",
+      "summary": "El capital riesgo consiste en financiar empresas incipientes en fase de crecimiento con elevado potencial y riesgo.Si bien, el capital riesgo puede dividirse dependiendo de la etapa en la que se produzca la inversión, siendo común el uso del término venture capital para la inversión en fases tempranas y el término private equity para fases avanzadas. El elemento común, con independencia de la fase en la que se invierta mediante capital riesgo es la posibilidad de generar un retorno positivo mediante el incremento de valoración de la compañía invertida.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Capital_riesgo",
+      "publishedAt": null,
+      "fetchedAt": 1784295536594,
+      "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
     },
@@ -87,23 +104,6 @@
       "publishedAt": null,
       "fetchedAt": 1784275856048,
       "readingSeconds": 20,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
-    {
-      "id": "2b476cefefdb97ca9c0269a64265f72f63ce89b5",
-      "category": "EMPRENDIMIENTO",
-      "subcategory": null,
-      "title": "Capital riesgo",
-      "summary": "El capital riesgo consiste en financiar empresas incipientes en fase de crecimiento con elevado potencial y riesgo.Si bien, el capital riesgo puede dividirse dependiendo de la etapa en la que se produzca la inversión, siendo común el uso del término venture capital para la inversión en fases tempranas y el término private equity para fases avanzadas. El elemento común, con independencia de la fase en la que se invierta mediante capital riesgo es la posibilidad de generar un retorno positivo mediante el incremento de valoración de la compañía invertida.",
-      "curiousFact": null,
-      "whyItMatters": null,
-      "imageUrl": null,
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://es.wikipedia.org/wiki/Capital_riesgo",
-      "publishedAt": null,
-      "fetchedAt": 1784267001082,
-      "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
     },
