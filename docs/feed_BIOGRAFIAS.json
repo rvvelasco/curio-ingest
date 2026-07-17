@@ -3,8 +3,25 @@
   "emoji": "👤",
   "label": "Biografías",
   "color": "#7A6C8A",
-  "updatedAt": 1784256125240,
+  "updatedAt": 1784267022997,
   "posts": [
+    {
+      "id": "4289f521fc77e498a10830a09574d400d08c0741",
+      "category": "BIOGRAFIAS",
+      "subcategory": null,
+      "title": "Charlie Shotwell",
+      "summary": "Charlie Shotwell es un actor estadounidense. Comenzó a actuar profesionalmente a los seis años. Su primer papel notable fue como el joven Nai Cash en la película de comedia dramática de 2016, Captain Fantastic, por la que recibió nominaciones para los premios SAG y Premios Young Artist. Más tarde protagonizó la película de terror de Netflix Eli, y el horror psicológico John and the Hole de Pascual Sisto, también apareció en la comedia Troop Zero de Amazon Studios.",
+      "curiousFact": "Nació un día como hoy, en 2007.",
+      "whyItMatters": null,
+      "imageUrl": null,
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Charlie_Shotwell",
+      "publishedAt": null,
+      "fetchedAt": 1784267002901,
+      "readingSeconds": 23,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "b22a422962d6d18beabd6a5f87809c74b60c4057",
       "category": "BIOGRAFIAS",
@@ -17,7 +34,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Isabelle_Marciniak",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +51,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Finn_Jeltsch",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +68,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Gift_Orban",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +85,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Hanna_Lundkvist",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +102,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Lennert_Van_Eetvelt",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +119,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Alejandro_Pach%C3%B3n",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +136,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Ivan_Durdov",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +153,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Nico_Liersch",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,25 +170,8 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Axana_Gataulina",
       "publishedAt": null,
-      "fetchedAt": 1784256103322,
+      "fetchedAt": 1784267002901,
       "readingSeconds": 20,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
-    {
-      "id": "4289f521fc77e498a10830a09574d400d08c0741",
-      "category": "BIOGRAFIAS",
-      "subcategory": null,
-      "title": "Charlie Shotwell",
-      "summary": "Charlie Shotwell es un actor estadounidense. Comenzó a actuar profesionalmente a los seis años. Su primer papel notable fue como el joven Nai Cash en la película de comedia dramática de 2016, Captain Fantastic, por la que recibió nominaciones para los premios SAG y Premios Young Artist. Más tarde protagonizó la película de terror de Netflix Eli, y el horror psicológico John and the Hole de Pascual Sisto, también apareció en la comedia Troop Zero de Amazon Studios.",
-      "curiousFact": "Nació un día como hoy, en 2007.",
-      "whyItMatters": null,
-      "imageUrl": null,
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://es.wikipedia.org/wiki/Charlie_Shotwell",
-      "publishedAt": null,
-      "fetchedAt": 1784256103321,
-      "readingSeconds": 23,
       "extendedContent": null,
       "aiEnhanced": false
     },

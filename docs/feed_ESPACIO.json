@@ -3,8 +3,25 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784256125234,
+  "updatedAt": 1784267022991,
   "posts": [
+    {
+      "id": "8f46c2b7168b2128a4108de703fb8820b85bb684",
+      "category": "ESPACIO",
+      "subcategory": null,
+      "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+      "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128.jpg",
+      "sourceName": "NASA",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+      "publishedAt": 1784260860000,
+      "fetchedAt": 1784267000793,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "aeb4df3836ee370ff142b50e28b99e3873443828",
       "category": "ESPACIO",
@@ -17,7 +34,7 @@
       "sourceName": "SpacePolicyOnline.com",
       "sourceUrl": "https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/",
       "publishedAt": 1784252779000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +51,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
       "publishedAt": 1784248805000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +68,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/",
       "publishedAt": 1784241439000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +85,7 @@
       "sourceName": "SpacePolicyOnline.com",
       "sourceUrl": "https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/",
       "publishedAt": 1784238158000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +102,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
       "publishedAt": 1784235610000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +119,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
       "publishedAt": 1784234172000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +136,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
       "publishedAt": 1784227226000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +153,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
       "publishedAt": 1784215785000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +170,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
       "publishedAt": 1784215440000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +187,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
       "publishedAt": 1784214196000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +204,7 @@
       "sourceName": "European Spaceflight",
       "sourceUrl": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
       "publishedAt": 1784213990000,
-      "fetchedAt": 1784256099643,
+      "fetchedAt": 1784267000793,
       "readingSeconds": 22,
       "extendedContent": null,
       "aiEnhanced": false
@@ -1004,23 +1021,6 @@
       "sourceUrl": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
       "publishedAt": 1784036954000,
       "fetchedAt": 1784103084153,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
-    {
-      "id": "6795b7321a87f725cb495725cc9b1379cd1590a8",
-      "category": "ESPACIO",
-      "subcategory": null,
-      "title": "U.K. government preparing to release new space strategy",
-      "summary": "The British government is preparing to release a new space strategy that will provide a “whole-of-government” approach for space in the country. The post U.K. government preparing to release new space strategy appeared first on SpaceNews.",
-      "curiousFact": null,
-      "whyItMatters": null,
-      "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/evernden-spacetide.jpeg?fit=1024%2C700&ssl=1",
-      "sourceName": "SpaceNews",
-      "sourceUrl": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
-      "publishedAt": 1784030839000,
-      "fetchedAt": 1784093555900,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
