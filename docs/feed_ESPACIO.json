@@ -3,7 +3,7 @@
   "emoji": "🚀",
   "label": "Espacio",
   "color": "#3A3A6A",
-  "updatedAt": 1784341969817,
+  "updatedAt": 1784352460763,
   "posts": [
     {
       "id": "b21632b76b09f9577425fcb791e68f32c3457c93",
@@ -17,7 +17,7 @@
       "sourceName": "SpaceNews",
       "sourceUrl": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/",
       "publishedAt": 1784332820000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435715,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -34,7 +34,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
       "publishedAt": 1784329713000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +51,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
       "publishedAt": 1784327547000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +68,7 @@
       "sourceName": "SpacePolicyOnline.com",
       "sourceUrl": "https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/",
       "publishedAt": 1784324520000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +85,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
       "publishedAt": 1784322098000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +102,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
       "publishedAt": 1784320499000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 21,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +119,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
       "publishedAt": 1784318723000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +136,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
       "publishedAt": 1784316426000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +153,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
       "publishedAt": 1784311257000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +170,7 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
       "publishedAt": 1784309918000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +187,7 @@
       "sourceName": "Arstechnica",
       "sourceUrl": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
       "publishedAt": 1784306539000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -204,7 +204,7 @@
       "sourceName": "ESA",
       "sourceUrl": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/ESA_Academy_s_Navigation_Training_Course",
       "publishedAt": 1784304000000,
-      "fetchedAt": 1784341947932,
+      "fetchedAt": 1784352435716,
       "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
