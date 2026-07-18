@@ -3,25 +3,8 @@
   "emoji": "📚",
   "label": "Historia",
   "color": "#B08968",
-  "updatedAt": 1784369953558,
+  "updatedAt": 1784380606285,
   "posts": [
-    {
-      "id": "520917f04c802d41b5c6efdec5bdee98aac78add",
-      "category": "HISTORIA",
-      "subcategory": null,
-      "title": "2019: Ataque incendiario contra Kyoto Animation",
-      "summary": "El ataque incendiario contra Kyoto Animation fue un incendio provocado ocurrido el 18 de julio de 2019, que tuvo como blanco el edificio del estudio 1 de Kyoto Animation, en Kioto. Poco después de las 10:30 hora local (UTC+9), Shinji Aoba , un hombre de 41 años quien no estaba relacionado con el estudio, entró por la puerta principal, bloqueó las salidas de emergencia y vertió gasolina dentro de las oficinas así como también roció el líquido en algunos de los empleados, generando una explosión. Aoba huyó después de iniciar el incendio, pero fue perseguido por un empleado de Kyoto Animation y…",
-      "curiousFact": "Ocurrió un día como hoy, en el año 2019.",
-      "whyItMatters": null,
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kyoto_animation_arson_attack_1_20190721.jpg/330px-Kyoto_animation_arson_attack_1_20190721.jpg",
-      "sourceName": "Wikipedia",
-      "sourceUrl": "https://es.wikipedia.org/wiki/Ataque_incendiario_contra_Kyoto_Animation",
-      "publishedAt": null,
-      "fetchedAt": 1784369934278,
-      "readingSeconds": 31,
-      "extendedContent": null,
-      "aiEnhanced": false
-    },
     {
       "id": "0ff0d4ae3e662ce7659e788856f30c48ea592c7d",
       "category": "HISTORIA",
@@ -34,7 +17,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Jos%C3%A9_Miguel_Garc%C3%ADa_Meseguer",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -51,7 +34,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Asesinato_de_Mollie_Tibbetts",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
@@ -68,7 +51,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Estado_Isl%C3%A1mico",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 24,
       "extendedContent": null,
       "aiEnhanced": false
@@ -85,7 +68,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Tijuana",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 25,
       "extendedContent": null,
       "aiEnhanced": false
@@ -102,7 +85,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Burgas",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -119,7 +102,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Jes%C3%BAs_V%C3%A1zquez",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -136,7 +119,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 27,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +136,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +153,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Carlos_Sainz",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 32,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +170,7 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Gaza",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -204,8 +187,25 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://es.wikipedia.org/wiki/Faluya",
       "publishedAt": null,
-      "fetchedAt": 1784369934278,
+      "fetchedAt": 1784380586740,
       "readingSeconds": 23,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
+    {
+      "id": "520917f04c802d41b5c6efdec5bdee98aac78add",
+      "category": "HISTORIA",
+      "subcategory": null,
+      "title": "2019: Ataque incendiario contra Kyoto Animation",
+      "summary": "El ataque incendiario contra Kyoto Animation fue un incendio provocado ocurrido el 18 de julio de 2019, que tuvo como blanco el edificio del estudio 1 de Kyoto Animation, en Kioto. Poco después de las 10:30 hora local (UTC+9), Shinji Aoba , un hombre de 41 años quien no estaba relacionado con el estudio, entró por la puerta principal, bloqueó las salidas de emergencia y vertió gasolina dentro de las oficinas así como también roció el líquido en algunos de los empleados, generando una explosión. Aoba huyó después de iniciar el incendio, pero fue perseguido por un empleado de Kyoto Animation y…",
+      "curiousFact": "Ocurrió un día como hoy, en el año 2019.",
+      "whyItMatters": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kyoto_animation_arson_attack_1_20190721.jpg/330px-Kyoto_animation_arson_attack_1_20190721.jpg",
+      "sourceName": "Wikipedia",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Ataque_incendiario_contra_Kyoto_Animation",
+      "publishedAt": null,
+      "fetchedAt": 1784380586739,
+      "readingSeconds": 31,
       "extendedContent": null,
       "aiEnhanced": false
     },

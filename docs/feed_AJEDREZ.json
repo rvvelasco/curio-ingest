@@ -3,8 +3,25 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1784369953567,
+  "updatedAt": 1784380606293,
   "posts": [
+    {
+      "id": "a4f8b7ed4303ae03e098f7a30593b46b8381e7a3",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 2082, jugado 26616 veces. Temas: endgame, advantage, short.",
+      "curiousFact": "Este puzzle entrena: endgame, advantage, short.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": null,
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/D1COh",
+      "publishedAt": 1784380585957,
+      "fetchedAt": 1784380585957,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "8a137defaa909736334e7fdf27aeaf9bda63802b",
       "category": "AJEDREZ",
