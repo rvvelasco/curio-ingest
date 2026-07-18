@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784361086645,
+  "updatedAt": 1784369953571,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -41,14 +41,14 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 10
+      "count": 9
     },
     {
       "category": "EMPRENDIMIENTO",
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "ESPACIO",
@@ -76,7 +76,7 @@
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 6
+      "count": 7
     },
     {
       "category": "HISTORIA",
@@ -104,7 +104,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 8
+      "count": 7
     },
     {
       "category": "TECNOLOGIA",
