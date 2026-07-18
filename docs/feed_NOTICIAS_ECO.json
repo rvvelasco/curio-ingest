@@ -1,0 +1,27 @@
+{
+  "category": "NOTICIAS_ECO",
+  "emoji": "📰",
+  "label": "Noticias Económicas",
+  "color": "#3F8E9E",
+  "updatedAt": 1784071866516,
+  "posts": [
+    {
+      "id": "0192f07587463b7e37cfcdb49fa48b4227fa2feb",
+      "category": "NOTICIAS_ECO",
+      "subcategory": null,
+      "title": "(demo) Titular de economía",
+      "summary": "(demo) Noticia reciente sobre economía. En la corrida real llega el titular verdadero.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://picsum.photos/seed/712cf24c6d60/800/450",
+      "sourceName": "Medio de noticias",
+      "sourceUrl": "https://example.com",
+      "publishedAt": 1784071866416,
+      "fetchedAt": 1784071866416,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    }
+  ]
+}

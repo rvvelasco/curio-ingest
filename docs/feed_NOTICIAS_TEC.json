@@ -1,0 +1,27 @@
+{
+  "category": "NOTICIAS_TEC",
+  "emoji": "📰",
+  "label": "Noticias Tecnológicas",
+  "color": "#5B8C85",
+  "updatedAt": 1784071866516,
+  "posts": [
+    {
+      "id": "6ea850b7484bd30307ee252600665af415cf3dcb",
+      "category": "NOTICIAS_TEC",
+      "subcategory": null,
+      "title": "(demo) Titular de tecnología",
+      "summary": "(demo) Noticia reciente sobre tecnología. En la corrida real llega el titular verdadero.",
+      "curiousFact": null,
+      "whyItMatters": null,
+      "imageUrl": "https://picsum.photos/seed/9388deb531e9/800/450",
+      "sourceName": "Medio de noticias",
+      "sourceUrl": "https://example.com",
+      "publishedAt": 1784071866415,
+      "fetchedAt": 1784071866415,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    }
+  ]
+}
