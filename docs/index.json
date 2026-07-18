@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784325315835,
+  "updatedAt": 1784341970039,
   "categories": [
     {
       "category": "AJEDREZ",
@@ -20,7 +20,7 @@
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 40
+      "count": 50
     },
     {
       "category": "CIENCIA",
@@ -83,7 +83,7 @@
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 47
+      "count": 59
     },
     {
       "category": "IA",
@@ -114,5 +114,5 @@
       "count": 60
     }
   ],
-  "total": 423
+  "total": 445
 }
