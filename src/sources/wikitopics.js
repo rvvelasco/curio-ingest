@@ -35,13 +35,13 @@ export const SEEDS = {
     "Elon Musk", "Modelo de negocio", "Jeff Bezos", "Innovación"],
 };
 
-/** Recorta el texto a las primeras ~2-3 frases para el resumen de la card. */
-function shortSummary(text, maxChars = 320) {
+/** Recorta el texto a un preview jugoso (varias frases) para el resumen de la card. */
+function shortSummary(text, maxChars = 520) {
   const t = clean(text, 4000);
   if (t.length <= maxChars) return t;
   const cut = t.slice(0, maxChars);
   const lastDot = cut.lastIndexOf(". ");
-  return (lastDot > 120 ? cut.slice(0, lastDot + 1) : cut).trim() + "…";
+  return (lastDot > 200 ? cut.slice(0, lastDot + 1) : cut).trim() + "…";
 }
 
 export async function wikiTopics(category, titles, { count = 5, subcategory = null } = {}) {
