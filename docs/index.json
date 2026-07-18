@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784403354174,
+  "updatedAt": 1784406899764,
   "aiEnabled": true,
   "categories": [
     {
@@ -7,28 +7,28 @@
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 6
+      "count": 7
     },
     {
       "category": "AVANCES",
       "emoji": "⚡",
       "label": "Avances científicos",
       "color": "#C08552",
-      "count": 6
+      "count": 8
     },
     {
       "category": "BIOGRAFIAS",
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 6
+      "count": 10
     },
     {
       "category": "CIENCIA",
       "emoji": "🔬",
       "label": "Ciencia",
       "color": "#4A7BA6",
-      "count": 6
+      "count": 9
     },
     {
       "category": "CULTURA",
@@ -42,42 +42,42 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 5
+      "count": 7
     },
     {
       "category": "EMPRENDIMIENTO",
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 6
+      "count": 7
     },
     {
       "category": "ESPACIO",
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 15
+      "count": 21
     },
     {
       "category": "ESTOICISMO",
       "emoji": "🪨",
       "label": "Estoicismo",
       "color": "#6E6E6E",
-      "count": 5
+      "count": 6
     },
     {
       "category": "FILOSOFIA",
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 7
+      "count": 9
     },
     {
       "category": "FINANZAS",
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 4
+      "count": 6
     },
     {
       "category": "GEOGRAFIA",
@@ -91,7 +91,7 @@
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 7
+      "count": 11
     },
     {
       "category": "IA",
@@ -105,14 +105,14 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 8
+      "count": 14
     },
     {
       "category": "NEGOCIOS",
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 6
+      "count": 8
     },
     {
       "category": "NOTICIAS_CIEN",
@@ -140,8 +140,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 17
+      "count": 19
     }
   ],
-  "total": 135
+  "total": 173
 }
