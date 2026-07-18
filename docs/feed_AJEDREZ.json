@@ -3,8 +3,25 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1784352460768,
+  "updatedAt": 1784361086641,
   "posts": [
+    {
+      "id": "8a137defaa909736334e7fdf27aeaf9bda63802b",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1953, jugado 17773 veces. Temas: middlegame, short, advantage.",
+      "curiousFact": "Este puzzle entrena: middlegame, short, advantage.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": null,
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/o9tzk",
+      "publishedAt": 1784361064320,
+      "fetchedAt": 1784361064321,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "aiEnhanced": false
+    },
     {
       "id": "bc69cbbdbc38c72b4592da3c8aa44fa3c61b5b3a",
       "category": "AJEDREZ",
@@ -68,7 +85,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20260716-ebcea3ef",
       "publishedAt": 1784220895000,
-      "fetchedAt": 1784352435787,
+      "fetchedAt": 1784361064236,
       "readingSeconds": 20,
       "extendedContent": null,
       "aiEnhanced": false
@@ -153,7 +170,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_18",
       "publishedAt": 1769870033000,
-      "fetchedAt": 1784352435787,
+      "fetchedAt": 1784361064236,
       "readingSeconds": 25,
       "extendedContent": null,
       "aiEnhanced": false
@@ -170,7 +187,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
       "publishedAt": 1743336796000,
-      "fetchedAt": 1784352435787,
+      "fetchedAt": 1784361064236,
       "readingSeconds": 26,
       "extendedContent": null,
       "aiEnhanced": false
@@ -187,7 +204,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17",
       "publishedAt": 1725640153000,
-      "fetchedAt": 1784352435787,
+      "fetchedAt": 1784361064236,
       "readingSeconds": 26,
       "extendedContent": null,
       "aiEnhanced": false
