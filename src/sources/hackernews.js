@@ -11,6 +11,7 @@ export async function fetchHackerNews() {
     .map((h) =>
       makePost({
         category: Category.TECNOLOGIA,
+        lang: "en",
         title: h.title,
         summary:
           `Tema destacado hoy en la comunidad tech de Hacker News. ` +

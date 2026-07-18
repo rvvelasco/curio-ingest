@@ -33,7 +33,7 @@ function byRecency(a, b) {
  * Fusiona los posts nuevos con lo ya publicado (para no perder historial),
  * deduplica, ordena y recorta a MAX_PER_CATEGORY por categoría.
  */
-export async function mergeAndWrite(newPosts) {
+export async function mergeAndWrite(newPosts, { aiEnabled = false } = {}) {
   await mkdir(OUT_DIR, { recursive: true });
 
   // Cargar lo previo (si existe) para mantener ventana rodante.
@@ -74,6 +74,7 @@ export async function mergeAndWrite(newPosts) {
   await writeJson(allPath, { updatedAt: Date.now(), count: finalAll.length, posts: finalAll });
   await writeJson(join(OUT_DIR, "index.json"), {
     updatedAt: Date.now(),
+    aiEnabled,
     categories: catIndex.sort((a, b) => a.label.localeCompare(b.label)),
     total: finalAll.length,
   });

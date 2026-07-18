@@ -90,6 +90,7 @@ export function makePost(p) {
     fetchedAt: Date.now(),
     readingSeconds: p.readingSeconds || estimateReadingSeconds(summary),
     extendedContent: p.extendedContent || null,
+    lang: p.lang || "es",
     aiEnhanced: !!p.aiEnhanced,
   };
 }

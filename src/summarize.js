@@ -20,12 +20,13 @@ const MAX_CALLS = parseInt(process.env.AI_MAX_CALLS || "300", 10); // tope diari
 const AI_ENABLED = Boolean(BASE_URL && API_KEY);
 let callsMade = 0;
 
-const SYSTEM_PROMPT = `Eres un editor que convierte información cruda en una tarjeta de aprendizaje breve, en español neutro.
+const SYSTEM_PROMPT = `Eres un editor que convierte información cruda en una tarjeta de aprendizaje breve, SIEMPRE en español neutro (traduce si el texto está en otro idioma).
 Devuelve SOLO un objeto JSON válido, sin markdown ni texto extra, con estas claves exactas:
 {"title": "...", "summary": "...", "curiousFact": "...", "whyItMatters": "..."}
 Reglas:
+- Todo en español, aunque la fuente esté en inglés.
 - "title": atractivo, claro, máx 90 caracteres. No clickbait, no inventar.
-- "summary": 2 a 3 frases que se entiendan SIN contexto previo. Basado SOLO en el texto dado; no inventes datos.
+- "summary": 3 a 4 frases que se entiendan SIN contexto previo. Basado SOLO en el texto dado; no inventes datos.
 - "curiousFact": un dato curioso corto y verificable relacionado al tema.
 - "whyItMatters": 1 frase explicando por qué esto importa o qué enseña.
 Si el texto es muy pobre, sé conservador y no inventes.`;
@@ -66,6 +67,7 @@ export async function enhancePost(post) {
       summary: parsed.summary?.trim() || post.summary,
       curiousFact: parsed.curiousFact?.trim() || post.curiousFact,
       whyItMatters: parsed.whyItMatters?.trim() || post.whyItMatters,
+      lang: "es",
       aiEnhanced: true,
     };
   } catch (e) {

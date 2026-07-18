@@ -9,6 +9,7 @@ export async function fetchSpaceflight() {
   return (data.results || []).map((a) =>
     makePost({
       category: Category.ESPACIO,
+        lang: "en",
       title: a.title,
       summary: a.summary,
       imageUrl: a.image_url || null,

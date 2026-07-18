@@ -1,11 +1,18 @@
 // sources/wikitopics.js — Adaptador REUTILIZABLE de temas de Wikipedia.
-// Con una lista curada de títulos por categoría, trae tarjetas con imagen y resumen.
+// Trae resumen corto (para la card) + texto largo (extendedContent, para "Leer más") + imagen.
 // Rota los temas en cada corrida (variedad sin algoritmo).
 import { httpGet, DEMO } from "../config.js";
-import { makePost } from "../schema.js";
+import { makePost, clean } from "../schema.js";
 
-// Listas curadas por categoría (títulos reales de Wikipedia en español).
 export const SEEDS = {
+  HISTORIA: ["Imperio romano", "Antiguo Egipto", "Segunda Guerra Mundial", "Revolución francesa",
+    "Imperio inca", "Edad Media", "Renacimiento", "Guerra Fría", "Antigua Grecia",
+    "Revolución industrial", "Imperio bizantino", "Primera Guerra Mundial", "Civilización maya",
+    "Imperio azteca", "Antigua Roma", "Cristóbal Colón"],
+  BIOGRAFIAS: ["Leonardo da Vinci", "Marie Curie", "Albert Einstein", "Nikola Tesla",
+    "Napoleón Bonaparte", "Cleopatra", "Charles Darwin", "Frida Kahlo", "Isaac Newton",
+    "Mahatma Gandhi", "Alan Turing", "Ada Lovelace", "Simón Bolívar", "Galileo Galilei",
+    "William Shakespeare", "Vincent van Gogh"],
   FILOSOFIA: ["Sócrates", "Platón", "Aristóteles", "Immanuel Kant", "Friedrich Nietzsche",
     "René Descartes", "Ética", "Existencialismo", "Empirismo", "Metafísica", "Lógica",
     "David Hume", "John Locke", "Baruch Spinoza", "Ludwig Wittgenstein"],
@@ -28,16 +35,26 @@ export const SEEDS = {
     "Elon Musk", "Modelo de negocio", "Jeff Bezos", "Innovación"],
 };
 
-/** Trae hasta `count` temas (al azar) de una categoría, con imagen y resumen de Wikipedia. */
+/** Recorta el texto a las primeras ~2-3 frases para el resumen de la card. */
+function shortSummary(text, maxChars = 320) {
+  const t = clean(text, 4000);
+  if (t.length <= maxChars) return t;
+  const cut = t.slice(0, maxChars);
+  const lastDot = cut.lastIndexOf(". ");
+  return (lastDot > 120 ? cut.slice(0, lastDot + 1) : cut).trim() + "…";
+}
+
 export async function wikiTopics(category, titles, { count = 5, subcategory = null } = {}) {
   if (DEMO) {
     return titles.slice(0, 2).map((t) =>
       makePost({
         category, subcategory,
         title: t,
-        summary: `(demo) Resumen de "${t}". En la corrida real, Wikipedia trae el texto e imagen.`,
+        summary: `(demo) Resumen corto de "${t}".`,
+        extendedContent: `(demo) Texto largo de "${t}" para el botón Leer más. En la corrida real, Wikipedia trae varios párrafos.`,
         sourceName: "Wikipedia",
         sourceUrl: `https://es.wikipedia.org/wiki/${encodeURIComponent(t)}`,
+        lang: "es",
       })
     );
   }
@@ -46,22 +63,27 @@ export async function wikiTopics(category, titles, { count = 5, subcategory = nu
   const out = [];
   for (const title of chosen) {
     try {
-      const url = `https://es.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
-      const s = await httpGet(url);
-      if (!s || s.type === "disambiguation" || !s.extract) continue;
+      const url = `https://es.wikipedia.org/w/api.php?action=query&prop=extracts|pageimages` +
+        `&explaintext=1&redirects=1&titles=${encodeURIComponent(title)}` +
+        `&format=json&formatversion=2&piprop=thumbnail&pithumbsize=800`;
+      const data = await httpGet(url);
+      const page = data?.query?.pages?.[0];
+      if (!page || page.missing || !page.extract) continue;
+      const full = clean(page.extract, 2500);
       out.push(
         makePost({
           category, subcategory,
-          title: s.title || title,
-          summary: s.extract,
-          imageUrl: s.thumbnail?.source || null,
+          title: page.title || title,
+          summary: shortSummary(full),
+          extendedContent: full,
+          imageUrl: page.thumbnail?.source || null,
           sourceName: "Wikipedia",
-          sourceUrl: s.content_urls?.desktop?.page ||
-            `https://es.wikipedia.org/wiki/${encodeURIComponent(title)}`,
+          sourceUrl: `https://es.wikipedia.org/wiki/${encodeURIComponent(title)}`,
+          lang: "es",
         })
       );
     } catch {
-      // si un tema falla, seguimos con el resto
+      // si un tema falla, seguimos
     }
   }
   return out;

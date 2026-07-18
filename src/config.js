@@ -12,7 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 export const DEMO = process.argv.includes("--demo");
 
 /** Cuantos items conservar por categoria (ventana deslizante). */
-export const MAX_PER_CATEGORY = 60;
+export const MAX_PER_CATEGORY = 35;
 
 /** User-agent cortes: Wikipedia/arXiv piden identificarse. Poné tu contacto real. */
 export const USER_AGENT =

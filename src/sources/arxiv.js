@@ -15,6 +15,7 @@ export async function fetchArxivAI() {
     const published = (raw.match(/<published>([^<]+)<\/published>/) || [])[1];
     return makePost({
       category: Category.IA,
+        lang: "en",
       title,
       summary,
       sourceName: "arXiv",

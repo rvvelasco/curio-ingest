@@ -13,6 +13,7 @@ export async function fetchNasaApod() {
     .map((a) =>
       makePost({
         category: Category.ESPACIO,
+        lang: "en",
         title: a.title,
         summary: a.explanation,
         curiousFact: a.copyright ? `Imagen por ${String(a.copyright).trim()}.` : null,

@@ -10,6 +10,7 @@ export async function fetchStockfishReleases() {
   return (data || []).map((r) =>
     makePost({
       category: Category.AJEDREZ,
+      lang: "en",
       subcategory: "Novedades de Stockfish",
       title: `Stockfish ${r.name || r.tag_name}`,
       summary:
