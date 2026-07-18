@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784411542462,
+  "updatedAt": 1784415773443,
   "aiEnabled": true,
   "categories": [
     {
@@ -21,14 +21,14 @@
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 11
+      "count": 13
     },
     {
       "category": "CIENCIA",
       "emoji": "🔬",
       "label": "Ciencia",
       "color": "#4A7BA6",
-      "count": 11
+      "count": 12
     },
     {
       "category": "CULTURA",
@@ -42,42 +42,42 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 8
+      "count": 9
     },
     {
       "category": "EMPRENDIMIENTO",
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 8
+      "count": 7
     },
     {
       "category": "ESPACIO",
       "emoji": "🚀",
       "label": "Espacio",
       "color": "#3A3A6A",
-      "count": 26
+      "count": 32
     },
     {
       "category": "ESTOICISMO",
       "emoji": "🪨",
       "label": "Estoicismo",
       "color": "#6E6E6E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "FILOSOFIA",
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 12
+      "count": 13
     },
     {
       "category": "FINANZAS",
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 6
+      "count": 7
     },
     {
       "category": "GEOGRAFIA",
@@ -91,7 +91,7 @@
       "emoji": "📚",
       "label": "Historia",
       "color": "#B08968",
-      "count": 12
+      "count": 14
     },
     {
       "category": "IA",
@@ -105,14 +105,14 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 14
+      "count": 20
     },
     {
       "category": "NEGOCIOS",
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 8
+      "count": 9
     },
     {
       "category": "NOTICIAS_CIEN",
@@ -140,8 +140,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 20
+      "count": 23
     }
   ],
-  "total": 190
+  "total": 214
 }
