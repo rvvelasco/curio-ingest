@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784488063984,
+  "updatedAt": 1784498032585,
   "aiEnabled": true,
   "categories": [
     {
@@ -105,7 +105,7 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 32
+      "count": 35
     },
     {
       "category": "NEGOCIOS",
@@ -143,5 +143,5 @@
       "count": 35
     }
   ],
-  "total": 254
+  "total": 257
 }
