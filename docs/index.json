@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784429229086,
+  "updatedAt": 1784440524633,
   "aiEnabled": true,
   "categories": [
     {
@@ -21,7 +21,7 @@
       "emoji": "👤",
       "label": "Biografías",
       "color": "#7A6C8A",
-      "count": 15
+      "count": 16
     },
     {
       "category": "CIENCIA",
@@ -49,7 +49,7 @@
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 8
+      "count": 7
     },
     {
       "category": "ESPACIO",
@@ -70,7 +70,7 @@
       "emoji": "🏛",
       "label": "Filosofía",
       "color": "#8A7A6D",
-      "count": 14
+      "count": 15
     },
     {
       "category": "FINANZAS",
@@ -105,14 +105,14 @@
       "emoji": "📖",
       "label": "Libros",
       "color": "#9C6B4E",
-      "count": 26
+      "count": 32
     },
     {
       "category": "NEGOCIOS",
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 8
+      "count": 9
     },
     {
       "category": "NOTICIAS_CIEN",
@@ -140,8 +140,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 27
+      "count": 29
     }
   ],
-  "total": 235
+  "total": 245
 }
