@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784457326086,
+  "updatedAt": 1784467166225,
   "aiEnabled": true,
   "categories": [
     {
@@ -140,8 +140,8 @@
       "emoji": "💻",
       "label": "Tecnología",
       "color": "#5B8C85",
-      "count": 32
+      "count": 35
     }
   ],
-  "total": 251
+  "total": 254
 }
