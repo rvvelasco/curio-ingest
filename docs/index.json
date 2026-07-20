@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784498032585,
+  "updatedAt": 1784517381818,
   "aiEnabled": true,
   "categories": [
     {
@@ -35,7 +35,7 @@
       "emoji": "🧠",
       "label": "Cultura General",
       "color": "#8E7CC3",
-      "count": 14
+      "count": 17
     },
     {
       "category": "ECONOMIA",
@@ -49,7 +49,7 @@
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "ESPACIO",
@@ -98,7 +98,7 @@
       "emoji": "🤖",
       "label": "Inteligencia Artificial",
       "color": "#6C7A9C",
-      "count": 14
+      "count": 26
     },
     {
       "category": "LIBROS",
@@ -112,7 +112,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 9
+      "count": 8
     },
     {
       "category": "NOTICIAS_CIEN",
@@ -143,5 +143,5 @@
       "count": 35
     }
   ],
-  "total": 257
+  "total": 272
 }
