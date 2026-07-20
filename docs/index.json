@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784538941822,
+  "updatedAt": 1784556464338,
   "aiEnabled": true,
   "categories": [
     {
@@ -7,7 +7,7 @@
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 9
+      "count": 10
     },
     {
       "category": "AVANCES",
@@ -49,7 +49,7 @@
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "ESPACIO",
@@ -112,7 +112,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 9
+      "count": 8
     },
     {
       "category": "NOTICIAS_CIEN",
@@ -143,5 +143,5 @@
       "count": 35
     }
   ],
-  "total": 273
+  "total": 274
 }
