@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784622653149,
+  "updatedAt": 1784632202328,
   "aiEnabled": true,
   "categories": [
     {
@@ -42,7 +42,7 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 9
+      "count": 10
     },
     {
       "category": "EMPRENDIMIENTO",
@@ -77,7 +77,7 @@
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 7
+      "count": 6
     },
     {
       "category": "GEOGRAFIA",
