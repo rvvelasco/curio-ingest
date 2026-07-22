@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784748078461,
+  "updatedAt": 1784757869018,
   "aiEnabled": true,
   "categories": [
     {
@@ -42,14 +42,14 @@
       "emoji": "📈",
       "label": "Economía",
       "color": "#3F8E9E",
-      "count": 9
+      "count": 10
     },
     {
       "category": "EMPRENDIMIENTO",
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 7
+      "count": 8
     },
     {
       "category": "ESPACIO",
@@ -77,7 +77,7 @@
       "emoji": "💰",
       "label": "Finanzas Personales",
       "color": "#4F9D69",
-      "count": 7
+      "count": 6
     },
     {
       "category": "GEOGRAFIA",
@@ -112,7 +112,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 9
+      "count": 8
     },
     {
       "category": "NOTICIAS_CIEN",
