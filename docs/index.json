@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784757869018,
+  "updatedAt": 1784774881418,
   "aiEnabled": true,
   "categories": [
     {
@@ -35,7 +35,7 @@
       "emoji": "🧠",
       "label": "Cultura General",
       "color": "#8E7CC3",
-      "count": 21
+      "count": 22
     },
     {
       "category": "ECONOMIA",
@@ -143,5 +143,5 @@
       "count": 35
     }
   ],
-  "total": 290
+  "total": 291
 }
