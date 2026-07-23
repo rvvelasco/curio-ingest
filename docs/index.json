@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784774881418,
+  "updatedAt": 1784786155784,
   "aiEnabled": true,
   "categories": [
     {
@@ -49,7 +49,7 @@
       "emoji": "👨‍💼",
       "label": "Emprendimiento",
       "color": "#B5783E",
-      "count": 8
+      "count": 7
     },
     {
       "category": "ESPACIO",
@@ -112,7 +112,7 @@
       "emoji": "🏢",
       "label": "Negocios",
       "color": "#5A7D9A",
-      "count": 8
+      "count": 9
     },
     {
       "category": "NOTICIAS_CIEN",
