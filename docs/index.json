@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785352653513,
+  "updatedAt": 1785362533013,
   "aiEnabled": true,
   "categories": [
     {
@@ -7,7 +7,7 @@
       "emoji": "♟",
       "label": "Ajedrez",
       "color": "#3D3D3D",
-      "count": 21
+      "count": 22
     },
     {
       "category": "AVANCES",
@@ -143,5 +143,5 @@
       "count": 35
     }
   ],
-  "total": 312
+  "total": 313
 }
