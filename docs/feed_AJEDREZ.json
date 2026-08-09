@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1786258652104,
+  "updatedAt": 1786268415490,
   "posts": [
+    {
+      "id": "c7c565deeb8275825de61d8dffa702fa089ae2ae",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1858, jugado 20082 veces. Temas: endgame, advantage, short.",
+      "curiousFact": "Este puzzle entrena: endgame, advantage, short.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/53ed1c2aa6ce/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/DnerT",
+      "publishedAt": 1786268375660,
+      "fetchedAt": 1786268375660,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "c4a1aa7b294efcb6d65848f059817644f5f36167",
       "category": "AJEDREZ",
@@ -125,7 +143,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20260803-762dd1da",
       "publishedAt": 1785790328000,
-      "fetchedAt": 1786258617823,
+      "fetchedAt": 1786268375501,
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "es",
-      "aiEnhanced": false
-    },
-    {
-      "id": "914ec10c9cc392154cc641641ac8beb700ba3a34",
-      "category": "AJEDREZ",
-      "subcategory": "Novedades de Stockfish",
-      "title": "Stockfish Stockfish 18",
-      "summary": "Today, we have the pleasure of announcing **Stockfish 18**, a new major release. As always, you can freely download it at [stockfishchess.org/download] and use it as a drop-in replacement in the [GUI of your choice] to benefit from stronger play and more accurate analysis. Whether you can spare hours or days of CPU time, your help matters for the ongoing development of Stockfish. Find out how you can help at [stockfishchess.org/get-involved]. Join our [Discord server] to get in touch with the c…",
-      "curiousFact": "Stockfish es de código abierto y supera con holgura a cualquier humano.",
-      "whyItMatters": "Cada versión suele traer mejoras de fuerza de juego que influyen en el análisis de todo el mundo del ajedrez.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/DroidFish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "sourceName": "GitHub · Stockfish",
-      "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_18",
-      "publishedAt": 1769870033000,
-      "fetchedAt": 1786258617823,
-      "readingSeconds": 25,
-      "extendedContent": null,
-      "lang": "en",
       "aiEnhanced": false
     }
   ]
