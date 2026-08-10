@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1786347771744,
+  "updatedAt": 1786357043326,
   "posts": [
+    {
+      "id": "6a127ca2e1107ea87182318a42aebce99cdc9f5c",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 2126, jugado 21907 veces. Temas: endgame, advantage, skewer, long.",
+      "curiousFact": "Este puzzle entrena: endgame, advantage, skewer, long.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/ead8dbf21f4c/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/GsEPe",
+      "publishedAt": 1786357004107,
+      "fetchedAt": 1786357004107,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "c7c565deeb8275825de61d8dffa702fa089ae2ae",
       "category": "AJEDREZ",
@@ -143,7 +161,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20260803-762dd1da",
       "publishedAt": 1785790328000,
-      "fetchedAt": 1786347734708,
+      "fetchedAt": 1786357003964,
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
-      "aiEnhanced": false
-    },
-    {
-      "id": "ea0fd5def9802af123a0f256279403631edf65a9",
-      "category": "AJEDREZ",
-      "subcategory": "Problemas diarios",
-      "title": "Puzzle de ajedrez del día",
-      "summary": "Un problema táctico para resolver hoy. Rating 1523, jugado 48210 veces. Temas: fork, middlegame, short.",
-      "curiousFact": "Este puzzle entrena: fork, middlegame, short.",
-      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
-      "imageUrl": "https://picsum.photos/seed/23323b75a67a/800/450",
-      "sourceName": "Lichess",
-      "sourceUrl": "https://lichess.org/training/PzXy9",
-      "publishedAt": 1784071866427,
-      "fetchedAt": 1784071866427,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "lang": "es",
       "aiEnhanced": false
     }
   ]
