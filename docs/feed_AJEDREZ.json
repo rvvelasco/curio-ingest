@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1792412516086,
+  "updatedAt": 1792441494179,
   "posts": [
+    {
+      "id": "d6bcc8cb9a16dbd1d4431be4d3e774d3d61dafb6",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 2022, jugado 14684 veces. Temas: veryLong, middlegame, attraction, sacrifice.",
+      "curiousFact": "Este puzzle entrena: veryLong, middlegame, attraction, sacrifice.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/25a26d07b412/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/85dvN",
+      "publishedAt": 1792441432160,
+      "fetchedAt": 1792441432160,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "68e707b90626269b4d02b6156cde86655698f13d",
       "category": "AJEDREZ",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "es",
-      "aiEnhanced": false
-    },
-    {
-      "id": "ca1a9c646651a7e9514f9f89482863fd391f7454",
-      "category": "AJEDREZ",
-      "subcategory": "Novedades de Stockfish",
-      "title": "Stockfish Stockfish dev-20260922-0a215d6c",
-      "summary": "Precompiled binaries of the latest Stockfish development version, built automatically on every commit. > [!NOTE] > For stable, thoroughly tested builds use the [official releases](https://github.com/official-stockfish/Stockfish/releases). > Pre-releases may contain bugs. *Some platforms ship a **universal binary** that automatically selects the best instruction set for your CPU - no manual selection needed.* --- ## Commits - [`0a215d6c`](https://github.com/official-stockfish/Stockfish/commit/0a…",
-      "curiousFact": "Stockfish es de código abierto y supera con holgura a cualquier humano.",
-      "whyItMatters": "Cada versión suele traer mejoras de fuerza de juego que influyen en el análisis de todo el mundo del ajedrez.",
-      "imageUrl": "https://picsum.photos/seed/829237d0bcae/800/450",
-      "sourceName": "GitHub · Stockfish",
-      "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20260922-0a215d6c",
-      "publishedAt": 1790096118000,
-      "fetchedAt": 1790790129946,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "lang": "en",
       "aiEnhanced": false
     }
   ]
