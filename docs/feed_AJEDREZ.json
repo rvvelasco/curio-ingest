@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1792985746431,
+  "updatedAt": 1793017440433,
   "posts": [
+    {
+      "id": "3b7c167f2b8339a543808fcf192cc2f1ad21b7e9",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1882, jugado 27515 veces. Temas: opening, advantage, long, hangingPiece.",
+      "curiousFact": "Este puzzle entrena: opening, advantage, long, hangingPiece.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/f5f069ddba71/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/m5n0s",
+      "publishedAt": 1793017406145,
+      "fetchedAt": 1793017406145,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "ebe62e23437dfbea70d341ea0e725c4a4653c4c8",
       "category": "AJEDREZ",
@@ -35,7 +53,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20261025-ff3a6c50",
       "publishedAt": 1792962625000,
-      "fetchedAt": 1792985706161,
+      "fetchedAt": 1793017406339,
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "es",
-      "aiEnhanced": false
-    },
-    {
-      "id": "3073c77f949e224eeb8912563ae6cc9da0d4ee5f",
-      "category": "AJEDREZ",
-      "subcategory": "Novedades de Stockfish",
-      "title": "Stockfish Stockfish dev-20260930-49ea5ded",
-      "summary": "Precompiled binaries of the latest Stockfish development version, built automatically on every commit. > [!NOTE] > For stable, thoroughly tested builds use the [official releases](https://github.com/official-stockfish/Stockfish/releases). > Pre-releases may contain bugs. *Some platforms ship a **universal binary** that automatically selects the best instruction set for your CPU - no manual selection needed.* --- ## Commits - [`49ea5ded`](https://github.com/official-stockfish/Stockfish/commit/49…",
-      "curiousFact": "Stockfish es de código abierto y supera con holgura a cualquier humano.",
-      "whyItMatters": "Cada versión suele traer mejoras de fuerza de juego que influyen en el análisis de todo el mundo del ajedrez.",
-      "imageUrl": "https://picsum.photos/seed/7eaa13efc694/800/450",
-      "sourceName": "GitHub · Stockfish",
-      "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20260930-49ea5ded",
-      "publishedAt": 1790796752000,
-      "fetchedAt": 1791592227589,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "lang": "en",
       "aiEnhanced": false
     }
   ]
