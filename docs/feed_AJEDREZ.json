@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1793738888783,
+  "updatedAt": 1793754253589,
   "posts": [
+    {
+      "id": "39eee185920f468bc3dfd2e3b528c06a11b814c1",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1907, jugado 28836 veces. Temas: veryLong, middlegame, discoveredAttack, defensiveMove.",
+      "curiousFact": "Este puzzle entrena: veryLong, middlegame, discoveredAttack, defensiveMove.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/9f766ad9e0df/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/FPFg0",
+      "publishedAt": 1793754219583,
+      "fetchedAt": 1793754219583,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "c08294cfba613be56a88daab9a230ddbdd3e8a50",
       "category": "AJEDREZ",
@@ -143,7 +161,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20261028-ff7cee42",
       "publishedAt": 1793167527000,
-      "fetchedAt": 1793738856662,
+      "fetchedAt": 1793754219735,
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
-      "aiEnhanced": false
-    },
-    {
-      "id": "b9b977cf6bbfd93cf4fe2bcf99195472c373790a",
-      "category": "AJEDREZ",
-      "subcategory": "Problemas diarios",
-      "title": "Puzzle de ajedrez del día",
-      "summary": "Un problema táctico para resolver hoy. Rating 1707, jugado 99308 veces. Temas: middlegame, advantage, short, trappedPiece.",
-      "curiousFact": "Este puzzle entrena: middlegame, advantage, short, trappedPiece.",
-      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
-      "imageUrl": "https://picsum.photos/seed/bde3ca27351f/800/450",
-      "sourceName": "Lichess",
-      "sourceUrl": "https://lichess.org/training/yngvQ",
-      "publishedAt": 1791592227670,
-      "fetchedAt": 1791592227670,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "lang": "es",
       "aiEnhanced": false
     }
   ]
