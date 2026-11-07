@@ -3,8 +3,26 @@
   "emoji": "♟",
   "label": "Ajedrez",
   "color": "#3D3D3D",
-  "updatedAt": 1794072642631,
+  "updatedAt": 1794087069490,
   "posts": [
+    {
+      "id": "a2664d0aea924f416dbab3e2c973e54e8ffd3b0d",
+      "category": "AJEDREZ",
+      "subcategory": "Problemas diarios",
+      "title": "Puzzle de ajedrez del día",
+      "summary": "Un problema táctico para resolver hoy. Rating 1860, jugado 15253 veces. Temas: middlegame, advantage, short, skewer.",
+      "curiousFact": "Este puzzle entrena: middlegame, advantage, short, skewer.",
+      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
+      "imageUrl": "https://picsum.photos/seed/4240f1a04697/800/450",
+      "sourceName": "Lichess",
+      "sourceUrl": "https://lichess.org/training/xSeW5",
+      "publishedAt": 1794087023730,
+      "fetchedAt": 1794087023730,
+      "readingSeconds": 20,
+      "extendedContent": null,
+      "lang": "es",
+      "aiEnhanced": false
+    },
     {
       "id": "402ea9c5138601c32e7d91408d6b266d1dd6ab07",
       "category": "AJEDREZ",
@@ -53,7 +71,7 @@
       "sourceName": "GitHub · Stockfish",
       "sourceUrl": "https://github.com/official-stockfish/Stockfish/releases/tag/stockfish-dev-20261106-7cdd5e89",
       "publishedAt": 1793981073000,
-      "fetchedAt": 1794072612838,
+      "fetchedAt": 1794087023785,
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
@@ -615,24 +633,6 @@
       "readingSeconds": 20,
       "extendedContent": null,
       "lang": "en",
-      "aiEnhanced": false
-    },
-    {
-      "id": "a69f255990b2be5f20bbab0d585c6aa0a8e33d6c",
-      "category": "AJEDREZ",
-      "subcategory": "Problemas diarios",
-      "title": "Puzzle de ajedrez del día",
-      "summary": "Un problema táctico para resolver hoy. Rating 2056, jugado 84766 veces. Temas: opening, long, advantage.",
-      "curiousFact": "Este puzzle entrena: opening, long, advantage.",
-      "whyItMatters": "Resolver un problema táctico por día es una de las formas más efectivas de mejorar en ajedrez.",
-      "imageUrl": "https://picsum.photos/seed/7f9efe6e121f/800/450",
-      "sourceName": "Lichess",
-      "sourceUrl": "https://lichess.org/training/s2zVy",
-      "publishedAt": 1791858677322,
-      "fetchedAt": 1791858677322,
-      "readingSeconds": 20,
-      "extendedContent": null,
-      "lang": "es",
       "aiEnhanced": false
     }
   ]
